@@ -25,8 +25,8 @@
 /* 1. Load and pre-process the data
  *************************************************************/
 VIZ.requiresData([
-  'json!data/station-network.json',
-  'json!data/spider.json',
+  'json!data1/station_allgreen.json',
+  'json!data1/spider_allgreen.json',
   'json!data/marey-trips.json',
   'json!data/marey-header.json'
 ], true).progress(function (percent) {
@@ -587,7 +587,7 @@ VIZ.requiresData([
     function getPointsFromStop(xScale, yScale, d, relative) {
       var last = null;
       var stops = d.stops.map(function (stop) {
-        // special case: place-jfk, place-nqncy -> place-jfk, place-asmnl (at same time), place-nqncy 
+        // special case: place-jfk, place-nqncy -> place-jfk, place-asmnl (at same time), place-nqncy
         // special case: place-nqncy, place-jfk -> place-nqncy, place-asmnl (at same time), place-jfk
         var result;
         if (last && last.stop === 'place-jfk' && stop.stop === 'place-nqncy') {
@@ -890,7 +890,7 @@ VIZ.requiresData([
       return linedUpMareyXScaleRatioFromFullMarey * xScale(d) * linedUpWidth / fullMareyWidth;
     }
 
-    // use the same utility that draws the marey lines in the full marey diagram to 
+    // use the same utility that draws the marey lines in the full marey diagram to
     // render them in the lined-up marey diagram
     function drawLinedUpLines(lines) {
       lines

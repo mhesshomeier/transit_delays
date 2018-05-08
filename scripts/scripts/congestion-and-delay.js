@@ -26,8 +26,8 @@
 
 VIZ.requiresData([
   'json!data/delay.json',
-  'json!data/station-network.json',
-  'json!data/spider.json',
+  'json!data1/station_allgreen.json',
+  'json!data1/spider_allgreen.json',
   'json!data/average-actual-delays.json'
 ], true).progress(function (percent) {
   "use strict";
@@ -90,7 +90,7 @@ VIZ.requiresData([
   // broken up into a left container element that contains the labels and a right
   // container element that contains the horizon chart and the delay band.  Each
   // of these is assigned the dimmable class for dimming on lightweight interaction
-  // and also a day- (such as day-0) that's used to identify that day in the 
+  // and also a day- (such as day-0) that's used to identify that day in the
   // index.html file.
   var dayRowContainer = chart.selectAll('.row')
       .data(days)
@@ -158,7 +158,7 @@ VIZ.requiresData([
 
         // filter out bad values, then return an array of objects that
         // can be fed into the horizon library.  Note the transformation
-        // using the scale to get relative values here so we fill up the 
+        // using the scale to get relative values here so we fill up the
         // horizon chart as much as possible
         var result = [
           _.chain(delay)
@@ -659,7 +659,7 @@ VIZ.requiresData([
 
 
   /* Miscellaneous utilities
-   * 
+   *
    * Primarily geometric equations for determining intersection
    * points between lines in the map glyph to decide where to put
    * the vertices of each polygon

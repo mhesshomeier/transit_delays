@@ -1,0 +1,434 @@
+,0,1,stop_id_old,stop_id_new,stop_name_new
+0,0.8284271247,3.171572875,place-alfcl,141,Alewife Station Busway
+1,0.8284271247,3.171572875,place-alfcl,70061,Alewife
+2,0.8284271247,3.171572875,place-alfcl,place-alfcl,Alewife
+9,5.242640687,0.7071067812,place-alsgr,70126,Allston Street - Inbound
+10,5.242640687,0.7071067812,place-alsgr,70127,Allston Street - Outbound
+11,5.242640687,0.7071067812,place-alsgr,place-alsgr,Allston Street
+18,7.778174593,10.12132034,place-andrw,13,Andrew Station Busway
+19,7.778174593,10.12132034,place-andrw,70083,Andrew - Outbound
+20,7.778174593,10.12132034,place-andrw,70084,Andrew - Inbound
+21,7.778174593,10.12132034,place-andrw,place-andrw,Andrew
+34,10.19238816,6.707106781,place-aport,70047,Airport - Inbound
+35,10.19238816,6.707106781,place-aport,70048,Airport - Outbound
+36,10.19238816,6.707106781,place-aport,7096,Airport Station Busway
+37,10.19238816,6.707106781,place-aport,place-aport,Airport
+50,8.485281374,7.414213562,place-aqucl,70043,Aquarium - Inbound
+51,8.485281374,7.414213562,place-aqucl,70044,Aquarium - Outbound
+52,8.485281374,7.414213562,place-aqucl,place-aqucl,Aquarium
+59,16.60660172,5.656854249,place-armnl,70156,Arlington - Inbound
+60,16.60660172,5.656854249,place-armnl,70157,Arlington - Outbound
+61,16.60660172,5.656854249,place-armnl,place-armnl,Arlington
+68,7.071067812,14.82842712,place-asmnl,334,Ashmont Busway
+69,7.071067812,14.82842712,place-asmnl,536,Dorchester Ave @ Hurlcroft Ave
+70,7.071067812,14.82842712,place-asmnl,70093,Ashmont - Outbound
+71,7.071067812,14.82842712,place-asmnl,70094,Ashmont - Inbound
+72,7.071067812,14.82842712,place-asmnl,70261,Ashmont - Mattapan Line
+73,7.071067812,14.82842712,place-asmnl,place-asmnl,Ashmont
+125,8.656854249,0.7071067812,place-babck,70136,Babcock Street - Inbound
+126,8.656854249,0.7071067812,place-babck,70137,Babcock Street - Outbound
+127,8.656854249,0.7071067812,place-babck,place-babck,Babcock Street
+134,4.949747468,9.535533906,place-bbsta,176,Dartmouth St opp Back Bay Sta
+135,4.949747468,9.535533906,place-bbsta,23391,Back Bay Station
+136,4.949747468,9.535533906,place-bbsta,70014,Back Bay - Outbound
+137,4.949747468,9.535533906,place-bbsta,70015,Back Bay - Inbound
+138,4.949747468,9.535533906,place-bbsta,place-bbsta,Back Bay
+164,9.242640687,14.02081528,place-bckhl,70257,Back of the Hill - Outbound
+165,9.242640687,14.02081528,place-bckhl,70258,Back of the Hill - Inbound
+166,9.242640687,14.02081528,place-bckhl,place-bckhl,Back of the Hill
+173,9.363961031,9.899494937,place-bcnfd,70176,Beaconsfield - Inbound
+174,9.363961031,9.899494937,place-bcnfd,70177,Beaconsfield - Outbound
+175,9.363961031,9.899494937,place-bcnfd,place-bcnfd,Beaconsfield
+182,5.656854249,7.778174593,place-bcnwa,1276,Washington St @ Beacon St
+183,5.656854249,7.778174593,place-bcnwa,1292,Washington St @ Beacon St
+184,5.656854249,7.778174593,place-bcnwa,70229,Washington Square - Outbound
+185,5.656854249,7.778174593,place-bcnwa,70230,Washington Square - Inbound
+186,5.656854249,7.778174593,place-bcnwa,place-bcnwa,Washington Square
+207,12.89949494,4.949747468,place-bland,70148,Blandford Street - Inbound
+208,12.89949494,4.949747468,place-bland,70149,Blandford Street - Outbound
+209,12.89949494,4.949747468,place-bland,place-bland,Blandford Street
+216,13.02081528,3.878679656,place-bmmnl,5810,Winthrop Ave @ Beachmont Station
+217,13.02081528,3.878679656,place-bmmnl,5819,Winthrop Ave @ Beachmont Station
+218,13.02081528,3.878679656,place-bmmnl,70055,Beachmont - Inbound
+219,13.02081528,3.878679656,place-bmmnl,70056,Beachmont - Outbound
+220,13.02081528,3.878679656,place-bmmnl,place-bmmnl,Beachmont
+241,7.071067812,6.363961031,place-bndhl,70225,Brandon Hall - Outbound
+242,7.071067812,6.363961031,place-bndhl,70226,Brandon Hall - Inbound
+243,7.071067812,6.363961031,place-bndhl,place-bndhl,Brandon Hall
+250,6.363961031,5.292893219,place-bomnl,70038,Bowdoin - Inbound
+251,6.363961031,5.292893219,place-bomnl,70838,Bowdoin - Outbound
+252,6.363961031,5.292893219,place-bomnl,place-bomnl,Bowdoin
+256,17.60660172,5.656854249,place-boyls,70158,Boylston - Inbound
+257,17.60660172,5.656854249,place-boyls,70159,Boylston - Outbound
+258,17.60660172,5.656854249,place-boyls,place-boyls,Boylston
+265,7.778174593,9.121320344,place-brdwy,150,Broadway Station - Red Line
+266,7.778174593,9.121320344,place-brdwy,151,W Broadway @ Broadway Station
+267,7.778174593,9.121320344,place-brdwy,70081,Broadway - Outbound
+268,7.778174593,9.121320344,place-brdwy,70082,Broadway - Inbound
+269,7.778174593,9.121320344,place-brdwy,place-brdwy,Broadway
+290,7.949747468,0.0,place-brico,70134,Packards Corner - Inbound
+291,7.949747468,0.0,place-brico,70135,Packards Corner - Outbound
+292,7.949747468,0.0,place-brico,place-brico,Packards Corner
+299,10.07106781,9.192388155,place-brkhl,70178,Brookline Hills - Inbound
+300,10.07106781,9.192388155,place-brkhl,70179,Brookline Hills - Outbound
+301,10.07106781,9.192388155,place-brkhl,place-brkhl,Brookline Hills
+308,12.07106781,11.19238816,place-brmnl,70249,Brigham Circle - Outbound
+309,12.07106781,11.19238816,place-brmnl,70250,Brigham Circle - Inbound
+310,12.07106781,11.19238816,place-brmnl,place-brmnl,Brigham Circle
+320,10.60660172,14.94974747,place-brntn,38671,Braintree Busway
+321,10.60660172,14.94974747,place-brntn,70105,Braintree
+322,10.60660172,14.94974747,place-brntn,place-brntn,Braintree
+329,11.48528137,3.535533906,place-bucen,70144,Boston Univ Central - Inbound
+330,11.48528137,3.535533906,place-bucen,70145,Boston Univ Central - Outbound
+331,11.48528137,3.535533906,place-bucen,place-bucen,Boston Univ. Central
+338,12.19238816,4.242640687,place-buest,70146,Boston Univ East - Inbound
+339,12.19238816,4.242640687,place-buest,70147,Boston Univ East - Outbound
+340,12.19238816,4.242640687,place-buest,place-buest,Boston Univ. East
+356,10.77817459,2.828427125,place-buwst,70142,Boston Univ West - Inbound
+357,10.77817459,2.828427125,place-buwst,70143,Boston Univ West - Outbound
+358,10.77817459,2.828427125,place-buwst,place-buwst,Boston Univ. West
+365,10.77817459,8.485281374,place-bvmnl,70180,Brookline Village - Inbound
+366,10.77817459,8.485281374,place-bvmnl,70181,Brookline Village - Outbound
+367,10.77817459,8.485281374,place-bvmnl,place-bvmnl,Brookline Village
+383,8.485281374,4.0,place-ccmnl,70028,Community College - Inbound
+384,8.485281374,4.0,place-ccmnl,70029,Community College - Outbound
+385,8.485281374,4.0,place-ccmnl,place-ccmnl,Community College
+410,7.949747468,11.3137085,place-chhil,70172,Chestnut Hill - Inbound
+411,7.949747468,11.3137085,place-chhil,70173,Chestnut Hill - Outbound
+412,7.949747468,11.3137085,place-chhil,place-chhil,Chestnut Hill
+419,1.707106781,4.242640687,place-chill,70112,Chestnut Hill Avenue - Inbound
+420,1.707106781,4.242640687,place-chill,70113,Chestnut Hill Avenue - Outbound
+421,1.707106781,4.242640687,place-chill,place-chill,Chestnut Hill Ave.
+428,5.656854249,6.0,place-chmnl,70073,Charles/MGH - Inbound
+429,5.656854249,6.0,place-chmnl,70074,Charles/MGH - Outbound
+430,5.656854249,6.0,place-chmnl,place-chmnl,Charles/MGH
+437,6.363961031,8.121320344,place-chncl,70018,Chinatown - Outbound
+438,6.363961031,8.121320344,place-chncl,70019,Chinatown - Inbound
+439,6.363961031,8.121320344,place-chncl,place-chncl,Chinatown
+446,2.414213562,3.535533906,place-chswk,70114,Chiswick Road - Inbound
+447,2.414213562,3.535533906,place-chswk,70115,Chiswick Road - Outbound
+448,2.414213562,3.535533906,place-chswk,place-chswk,Chiswick Road
+455,2.535533906,9.899494937,place-clmnl,70237,Cleveland Circle - Outbound
+456,2.535533906,9.899494937,place-clmnl,70238,Cleveland Circle - Inbound
+457,2.535533906,9.899494937,place-clmnl,place-clmnl,Cleveland Circle
+464,4.242640687,4.585786438,place-cntsq,70069,Central - Inbound
+465,4.242640687,4.585786438,place-cntsq,70070,Central - Outbound
+466,4.242640687,4.585786438,place-cntsq,place-cntsq,Central
+476,15.60660172,5.656854249,place-coecl,70154,Copley - Inbound
+477,15.60660172,5.656854249,place-coecl,70155,Copley - Outbound
+478,15.60660172,5.656854249,place-coecl,place-coecl,Copley
+488,8.485281374,4.949747468,place-cool,1308,Harvard St @ Beacon St
+489,8.485281374,4.949747468,place-cool,1372,Harvard St @ Beacon St
+490,8.485281374,4.949747468,place-cool,70219,Coolidge Corner - Outbound
+491,8.485281374,4.949747468,place-cool,70220,Coolidge Corner - Inbound
+492,8.485281374,4.949747468,place-cool,place-cool,Coolidge Corner
+522,1.828427125,3.171572875,place-davis,5104,Davis Busway
+523,1.828427125,3.171572875,place-davis,70063,Davis - Inbound
+524,1.828427125,3.171572875,place-davis,70064,Davis - Outbound
+525,1.828427125,3.171572875,place-davis,place-davis,Davis
+538,4.242640687,9.192388155,place-denrd,70233,Dean Road - Outbound
+539,4.242640687,9.192388155,place-denrd,70234,Dean Road - Inbound
+540,4.242640687,9.192388155,place-denrd,place-denrd,Dean Road
+547,7.071067812,7.414213562,place-dwnxg,70020,Downtown Crossing - to Forest Hills
+548,7.071067812,7.414213562,place-dwnxg,70021,Downtown Crossing - to Oak Grove
+549,7.071067812,7.414213562,place-dwnxg,70077,Downtown Crossing - to Ashmont/Braintree
+550,7.071067812,7.414213562,place-dwnxg,70078,Downtown Crossing - to Alewife
+551,7.071067812,7.414213562,place-dwnxg,place-dwnxg,Downtown Crossing
+572,5.828427125,13.43502884,place-eliot,70166,Eliot - Inbound
+573,5.828427125,13.43502884,place-eliot,70167,Eliot - Outbound
+574,5.828427125,13.43502884,place-eliot,place-eliot,Eliot
+581,3.535533906,9.899494937,place-engav,70235,Englewood Avenue - Outbound
+582,3.535533906,9.899494937,place-engav,70236,Englewood Avenue - Inbound
+583,3.535533906,9.899494937,place-engav,place-engav,Englewood Ave.
+590,6.363961031,7.071067812,place-fbkst,70227,Fairbanks Street - Outbound
+591,6.363961031,7.071067812,place-fbkst,70228,Fairbanks Street - Inbound
+592,6.363961031,7.071067812,place-fbkst,place-fbkst,Fairbanks Street
+599,11.36396103,11.89949494,place-fenwd,70251,Fenwood Road - Outbound
+600,11.36396103,11.89949494,place-fenwd,70252,Fenwood Road - Inbound
+601,11.36396103,11.89949494,place-fenwd,place-fenwd,Fenwood Road
+608,12.19238816,7.071067812,place-fenwy,1807,Park Dr @ Fenway Station
+609,12.19238816,7.071067812,place-fenwy,70186,Fenway - Inbound
+610,12.19238816,7.071067812,place-fenwy,70187,Fenway - Outbound
+611,12.19238816,7.071067812,place-fenwy,9434,Park Dr @ Fenway Sta
+612,12.19238816,7.071067812,place-fenwy,place-fenwy,Fenway
+633,7.071067812,12.82842712,place-fldcr,323,Fields Corner Busway
+634,7.071067812,12.82842712,place-fldcr,70089,Fields Corner - Outbound
+635,7.071067812,12.82842712,place-fldcr,70090,Fields Corner - Inbound
+636,7.071067812,12.82842712,place-fldcr,place-fldcr,Fields Corner
+649,0.0,14.48528137,place-forhl,10642,Forest Hills Station Upper Busway
+650,0.0,14.48528137,place-forhl,70001,Forest Hills Orange Line
+651,0.0,14.48528137,place-forhl,875,Forest Hills Station Lower Busway
+652,0.0,14.48528137,place-forhl,8750,Forest Hills Station
+653,0.0,14.48528137,place-forhl,place-forhl,Forest Hills
+674,7.071067812,6.0,place-gover,4510,Cambridge St @ Government Ctr Sta
+675,7.071067812,6.0,place-gover,70039,Government Center - to Bowdoin
+676,7.071067812,6.0,place-gover,70040,Government Center - to Wonderland
+677,7.071067812,6.0,place-gover,70201,Government Center - Green Line Eastbound
+678,7.071067812,6.0,place-gover,70202,Government Center - Green Line Westbound
+679,7.071067812,6.0,place-gover,place-gover,Government Center
+710,5.949747468,0.0,place-grigg,70128,Griggs Street - Inbound
+711,5.949747468,0.0,place-grigg,70129,Griggs Street - Outbound
+712,5.949747468,0.0,place-grigg,place-grigg,Griggs Street
+719,0.7071067812,13.77817459,place-grnst,70002,Green Street - Outbound
+720,0.7071067812,13.77817459,place-grnst,70003,Green Street - Inbound
+721,0.7071067812,13.77817459,place-grnst,place-grnst,Green Street
+728,8.485281374,6.0,place-haecl,70024,Haymarket - Orange Line Inbound
+729,8.485281374,6.0,place-haecl,70025,Haymarket - Orange Line Outbound
+730,8.485281374,6.0,place-haecl,70203,Haymarket - Green Line Outbound
+731,8.485281374,6.0,place-haecl,70204,Haymarket - Green Line Inbound
+732,8.485281374,6.0,place-haecl,8310,Haymarket Busway
+733,8.485281374,6.0,place-haecl,place-haecl,Haymarket
+764,3.535533906,3.878679656,place-harsq,2076,Harvard Lower Busway
+765,3.535533906,3.878679656,place-harsq,20761,Harvard Upper Busway
+766,3.535533906,3.878679656,place-harsq,70067,Harvard - Inbound
+767,3.535533906,3.878679656,place-harsq,70068,Harvard - Outbound
+768,3.535533906,3.878679656,place-harsq,place-harsq,Harvard
+789,6.949747468,0.0,place-harvd,70130,Harvard Avenue - Inbound
+790,6.949747468,0.0,place-harvd,70131,Harvard Avenue - Outbound
+791,6.949747468,0.0,place-harvd,place-harvd,Harvard Ave.
+798,8.535533906,14.72792206,place-hsmnl,1761,Heath St @ S Huntington Ave
+799,8.535533906,14.72792206,place-hsmnl,6574,S Huntington Ave @ Heath St
+800,8.535533906,14.72792206,place-hsmnl,70260,Heath Street
+801,8.535533906,14.72792206,place-hsmnl,place-hsmnl,Heath Street
+818,10.89949494,4.949747468,place-hwsst,70213,Hawes Street - Outbound
+819,10.89949494,4.949747468,place-hwsst,70214,Hawes Street - Inbound
+820,10.89949494,4.949747468,place-hwsst,place-hwsst,Hawes Street
+827,14.60660172,5.656854249,place-hymnl,70152,Hynes - Inbound
+828,14.60660172,5.656854249,place-hymnl,70153,Hynes - Outbound
+829,14.60660172,5.656854249,place-hymnl,79,Massachusetts Ave @ Newbury St
+830,14.60660172,5.656854249,place-hymnl,93,Massachusetts Ave @ Newbury St
+831,14.60660172,5.656854249,place-hymnl,place-hymnl,Hynes Convention Center
+852,2.121320344,12.36396103,place-jaksn,11531,Jackson Square Busway
+853,2.121320344,12.36396103,place-jaksn,70006,Jackson Square - Outbound
+854,2.121320344,12.36396103,place-jaksn,70007,Jackson Square - Inbound
+855,2.121320344,12.36396103,place-jaksn,place-jaksn,Jackson Square
+868,7.778174593,11.12132034,place-jfk,121,JFK/UMass Station Busway
+869,7.778174593,11.12132034,place-jfk,70085,JFK/UMASS Ashmont - Outbound
+870,7.778174593,11.12132034,place-jfk,70086,JFK/UMASS Ashmont - Inbound
+871,7.778174593,11.12132034,place-jfk,70095,JFK/UMASS Braintree - Outbound
+872,7.778174593,11.12132034,place-jfk,70096,JFK/UMASS Braintree - Inbound
+873,7.778174593,11.12132034,place-jfk,place-jfk,JFK/Umass
+904,13.60660172,5.656854249,place-kencl,70150,Kenmore - Inbound
+905,13.60660172,5.656854249,place-kencl,70151,Kenmore - Outbound
+906,13.60660172,5.656854249,place-kencl,899,Kenmore Station Busway
+907,13.60660172,5.656854249,place-kencl,place-kencl,Kenmore
+920,4.949747468,5.292893219,place-knncl,2231,Main St @ Kendall Station - Red Line
+921,4.949747468,5.292893219,place-knncl,70071,Kendall/MIT - Inbound
+922,4.949747468,5.292893219,place-knncl,70072,Kendall/MIT - Outbound
+923,4.949747468,5.292893219,place-knncl,place-knncl,Kendall/MIT
+936,10.19238816,4.242640687,place-kntst,70215,Kent Street - Outbound
+937,10.19238816,4.242640687,place-kntst,70216,Kent Street - Inbound
+938,10.19238816,4.242640687,place-kntst,place-kntst,Kent Street
+945,0.0,4.949747468,place-lake,70106,Boston College - Inbound
+946,0.0,4.949747468,place-lake,70107,Boston College - Outbound
+947,0.0,4.949747468,place-lake,place-lake,Boston College
+954,18.60660172,1.828427125,place-lech,14150,Lechmere Busway
+955,18.60660172,1.828427125,place-lech,70209,Lechmere - Outbound
+956,18.60660172,1.828427125,place-lech,70210,Lechmere - Inbound
+957,18.60660172,1.828427125,place-lech,place-lech,Lechmere
+970,12.77817459,10.48528137,place-lngmd,70247,Longwood Medical Area - Outbound
+971,12.77817459,10.48528137,place-lngmd,70248,Longwood Medical Area - Inbound
+972,12.77817459,10.48528137,place-lngmd,place-lngmd,Longwood Medical Area
+979,11.48528137,7.778174593,place-longw,70182,Longwood - Inbound
+980,11.48528137,7.778174593,place-longw,70183,Longwood - Outbound
+981,11.48528137,7.778174593,place-longw,place-longw,Longwood
+988,4.242640687,10.24264069,place-masta,187,Massachusetts Ave @ Massachusetts Ave Station
+989,4.242640687,10.24264069,place-masta,188,Massachusetts Ave @ Massachusetts Ave Station
+990,4.242640687,10.24264069,place-masta,70012,Massachusetts Avenue - Outbound
+991,4.242640687,10.24264069,place-masta,70013,Massachusetts Avenue - Inbound
+992,4.242640687,10.24264069,place-masta,place-masta,Massachusetts Ave.
+1038,13.48528137,9.778174593,place-mfa,70245,Museum of Fine Arts - Outbound
+1039,13.48528137,9.778174593,place-mfa,70246,Museum of Fine Arts - Inbound
+1040,13.48528137,9.778174593,place-mfa,place-mfa,Museum of Fine Arts
+1056,10.65685425,12.60660172,place-mispk,70253,Mission Park - Outbound
+1057,10.65685425,12.60660172,place-mispk,70254,Mission Park - Inbound
+1058,10.65685425,12.60660172,place-mispk,place-mispk,Mission Park
+1065,8.485281374,1.0,place-mlmnl,5072,Malden Center West Busway
+1066,8.485281374,1.0,place-mlmnl,5327,Malden Center East Busway 2
+1067,8.485281374,1.0,place-mlmnl,53270,Malden Center East Busway 1
+1068,8.485281374,1.0,place-mlmnl,70034,Malden - Inbound
+1069,8.485281374,1.0,place-mlmnl,70035,Malden - Outbound
+1070,8.485281374,1.0,place-mlmnl,place-mlmnl,Malden Center
+1101,9.485281374,7.414213562,place-mvbcl,5740,Maverick Station
+1102,9.485281374,7.414213562,place-mvbcl,57400,Maverick Station
+1103,9.485281374,7.414213562,place-mvbcl,70045,Maverick - Inbound
+1104,9.485281374,7.414213562,place-mvbcl,70046,Maverick - Outbound
+1105,9.485281374,7.414213562,place-mvbcl,place-mvbcl,Maverick
+1126,6.535533906,12.72792206,place-newtn,70168,Newton Highlands - Inbound
+1127,6.535533906,12.72792206,place-newtn,70169,Newton Highlands - Outbound
+1128,6.535533906,12.72792206,place-newtn,place-newtn,Newton Highlands
+1135,7.242640687,12.02081528,place-newto,70170,Newton Centre - Inbound
+1136,7.242640687,12.02081528,place-newto,70171,Newton Centre - Outbound
+1137,7.242640687,12.02081528,place-newto,place-newto,Newton Centre
+1144,8.485281374,5.0,place-north,113,Portland St @ Causeway St
+1145,8.485281374,5.0,place-north,114,Causeway St @ North Station
+1146,8.485281374,5.0,place-north,70026,North Station - Orange Line Inbound
+1147,8.485281374,5.0,place-north,70027,North Station - Orange Line Outbound
+1148,8.485281374,5.0,place-north,70205,North Station - Green Line Outbound
+1149,8.485281374,5.0,place-north,70206,North Station - Green Line Inbound
+1150,8.485281374,5.0,place-north,place-north,North Station
+1193,8.485281374,11.82842712,place-nqncy,3125,North Quincy Busway
+1194,8.485281374,11.82842712,place-nqncy,70097,North Quincy - Outbound
+1195,8.485281374,11.82842712,place-nqncy,70098,North Quincy - Inbound
+1196,8.485281374,11.82842712,place-nqncy,place-nqncy,North Quincy
+1209,14.19238816,9.071067812,place-nuniv,41391,Huntington Ave @ Opera Pl
+1210,14.19238816,9.071067812,place-nuniv,70243,Northeastern - Outbound
+1211,14.19238816,9.071067812,place-nuniv,70244,Northeastern - Inbound
+1212,14.19238816,9.071067812,place-nuniv,81317,360 Huntington Ave
+1213,14.19238816,9.071067812,place-nuniv,place-nuniv,Northeastern University
+1234,8.485281374,0.0,place-ogmnl,70036,Oak Grove
+1235,8.485281374,0.0,place-ogmnl,9326,Washington St @ Oak Grove Station
+1236,8.485281374,0.0,place-ogmnl,9328,Oak Grove Busway
+1237,8.485281374,0.0,place-ogmnl,place-ogmnl,Oak Grove
+1250,11.60660172,5.292893219,place-orhte,15880,Orient Heights South Busway
+1251,11.60660172,5.292893219,place-orhte,5879,Orient Heights North Busway
+1252,11.60660172,5.292893219,place-orhte,5880,Orient Heights North Busway
+1253,11.60660172,5.292893219,place-orhte,70051,Orient Heights - Inbound
+1254,11.60660172,5.292893219,place-orhte,70052,Orient Heights - Outbound
+1255,11.60660172,5.292893219,place-orhte,place-orhte,Orient Heights
+1286,6.363961031,6.707106781,place-pktrm,70075,Park Street - to Ashmont/Braintree
+1287,6.363961031,6.707106781,place-pktrm,70076,Park Street - to Alewife
+1288,6.363961031,6.707106781,place-pktrm,70196,Park Street - Green Line - B Branch Berth
+1289,6.363961031,6.707106781,place-pktrm,70197,Park Street - Green Line - C Branch Berth
+1290,6.363961031,6.707106781,place-pktrm,70198,Park Street - Green Line - D Branch Berth
+1291,6.363961031,6.707106781,place-pktrm,70199,Park Street - Green Line - E Branch Berth
+1292,6.363961031,6.707106781,place-pktrm,70200,Park Street - Green Line Eastbound
+1293,6.363961031,6.707106781,place-pktrm,place-pktrm,Park Street
+1350,9.363961031,1.414213562,place-plsgr,70138,Pleasant Street - Inbound
+1351,9.363961031,1.414213562,place-plsgr,70139,Pleasant Street - Outbound
+1352,9.363961031,1.414213562,place-plsgr,place-plsgr,Pleasant Street
+1359,2.828427125,3.171572875,place-portr,23151,Massachusetts Ave @ Porter Red Line Sta
+1360,2.828427125,3.171572875,place-portr,2430,Somerville Ave @ Massachusetts Ave
+1361,2.828427125,3.171572875,place-portr,70065,Porter - Inbound
+1362,2.828427125,3.171572875,place-portr,70066,Porter - Outbound
+1363,2.828427125,3.171572875,place-portr,place-portr,Porter
+1384,14.89949494,6.363961031,place-prmnl,70239,Prudential - Outbound
+1385,14.89949494,6.363961031,place-prmnl,70240,Prudential - Inbound
+1386,14.89949494,6.363961031,place-prmnl,place-prmnl,Prudential
+1393,10.60660172,13.94974747,place-qamnl,41031,Quincy Adams Busway
+1394,10.60660172,13.94974747,place-qamnl,70103,Quincy Adams - Outbound
+1395,10.60660172,13.94974747,place-qamnl,70104,Quincy Adams - Inbound
+1396,10.60660172,13.94974747,place-qamnl,place-qamnl,Quincy Adams
+1409,9.899494937,13.24264069,place-qnctr,Quincy Center,Quincy Center
+1410,9.899494937,13.24264069,place-qnctr,32000,Burgin Pkwy @ Quincy Center Station
+1411,9.899494937,13.24264069,place-qnctr,32001,Quincy Center Busway
+1412,9.899494937,13.24264069,place-qnctr,32002,Quincy Center Busway
+1413,9.899494937,13.24264069,place-qnctr,32003,Quincy Center Busway
+1414,9.899494937,13.24264069,place-qnctr,32004,Quincy Center Busway
+1415,9.899494937,13.24264069,place-qnctr,32005,Quincy Center Busway
+1416,9.899494937,13.24264069,place-qnctr,70101,Quincy Center - Outbound
+1417,9.899494937,13.24264069,place-qnctr,70102,Quincy Center - Inbound
+1418,9.899494937,13.24264069,place-qnctr,place-qnctr,Quincy Center
+1509,13.72792206,3.171572875,place-rbmnl,70057,Revere Beach - Inbound
+1510,13.72792206,3.171572875,place-rbmnl,70058,Revere Beach - Outbound
+1511,13.72792206,3.171572875,place-rbmnl,place-rbmnl,Revere Beach
+1518,2.828427125,11.65685425,place-rcmnl,1258,Tremont St @ Roxbury Crossing Station
+1519,2.828427125,11.65685425,place-rcmnl,1323,Tremont St @ Columbus Ave
+1520,2.828427125,11.65685425,place-rcmnl,70008,Roxbury Crossing - Outbound
+1521,2.828427125,11.65685425,place-rcmnl,70009,Roxbury Crossing - Inbound
+1522,2.828427125,11.65685425,place-rcmnl,place-rcmnl,Roxbury Crossing
+1548,3.414213562,14.8492424,place-river,38155,Riverside Sta
+1549,3.414213562,14.8492424,place-river,70160,Riverside - Inbound
+1550,3.414213562,14.8492424,place-river,70161,Riverside - Outbound
+1551,3.414213562,14.8492424,place-river,place-river,Riverside
+1564,8.656854249,10.60660172,place-rsmnl,21917,Reservoir Busway
+1565,8.656854249,10.60660172,place-rsmnl,70174,Reservoir - Inbound
+1566,8.656854249,10.60660172,place-rsmnl,70175,Reservoir - Outbound
+1567,8.656854249,10.60660172,place-rsmnl,place-rsmnl,Reservoir
+1580,3.535533906,10.94974747,place-rugg,1226,Tremont St @ Ruggles St
+1581,3.535533906,10.94974747,place-rugg,17861,Ruggles Upper Busway
+1582,3.535533906,10.94974747,place-rugg,17862,Ruggles Lower Busway - Lane 1
+1583,3.535533906,10.94974747,place-rugg,17863,Ruggles Lower Busway - Lane 2
+1584,3.535533906,10.94974747,place-rugg,70010,Ruggles - Outbound
+1585,3.535533906,10.94974747,place-rugg,70011,Ruggles - Inbound
+1586,3.535533906,10.94974747,place-rugg,place-rugg,Ruggles
+1629,9.949747468,13.3137085,place-rvrwy,70255,Riverway - Outbound
+1630,9.949747468,13.3137085,place-rvrwy,70256,Riverway - Inbound
+1631,9.949747468,13.3137085,place-rvrwy,place-rvrwy,Riverway
+1638,1.414213562,13.07106781,place-sbmnl,70004,Stony Brook - Outbound
+1639,1.414213562,13.07106781,place-sbmnl,70005,Stony Brook - Inbound
+1640,1.414213562,13.07106781,place-sbmnl,place-sbmnl,Stony Brook
+1647,12.3137085,4.585786438,place-sdmnl,70053,Suffolk Downs - Inbound
+1648,12.3137085,4.585786438,place-sdmnl,70054,Suffolk Downs - Outbound
+1649,12.3137085,4.585786438,place-sdmnl,place-sdmnl,Suffolk Downs
+1656,7.071067812,11.82842712,place-shmnl,70087,Savin Hill - Outbound
+1657,7.071067812,11.82842712,place-shmnl,70088,Savin Hill - Inbound
+1658,7.071067812,11.82842712,place-shmnl,place-shmnl,Savin Hill
+1665,11.60660172,5.656854249,place-smary,70211,Saint Mary Street - Outbound
+1666,11.60660172,5.656854249,place-smary,70212,Saint Mary Street - Inbound
+1667,11.60660172,5.656854249,place-smary,place-smary,Saint Marys Street
+1674,7.071067812,13.82842712,place-smmnl,70091,Shawmut - Outbound
+1675,7.071067812,13.82842712,place-smmnl,70092,Shawmut - Inbound
+1676,7.071067812,13.82842712,place-smmnl,place-smmnl,Shawmut
+1683,1.0,4.949747468,place-sougr,70110,South Street - Inbound
+1684,1.0,4.949747468,place-sougr,70111,South Street - Outbound
+1685,1.0,4.949747468,place-sougr,place-sougr,South Street
+1692,19.3137085,2.535533906,place-spmnl,70207,Science Park - Outbound
+1693,19.3137085,2.535533906,place-spmnl,70208,Science Park - Inbound
+1694,19.3137085,2.535533906,place-spmnl,place-spmnl,Science Park
+1701,7.778174593,8.121320344,place-sstat,70079,South Station - Outbound
+1702,7.778174593,8.121320344,place-sstat,70080,South Station - Inbound
+1703,7.778174593,8.121320344,place-sstat,74611,South Station Silver Line - Outbound
+1704,7.778174593,8.121320344,place-sstat,74617,South Station Silver Line - Inbound
+1705,7.778174593,8.121320344,place-sstat,place-sstat,South Station
+1731,7.778174593,6.707106781,place-state,65,State St @ Washington Mall - State St Sta
+1732,7.778174593,6.707106781,place-state,70022,State Street - to Forest Hills
+1733,7.778174593,6.707106781,place-state,70023,State Street - to Oak Grove
+1734,7.778174593,6.707106781,place-state,70041,State Street - to Bowdoin
+1735,7.778174593,6.707106781,place-state,70042,State Street - to Wonderland
+1736,7.778174593,6.707106781,place-state,place-state,State Street
+1767,3.121320344,2.828427125,place-sthld,70116,Sutherland Road - Inbound
+1768,3.121320344,2.828427125,place-sthld,70117,Sutherland Road - Outbound
+1769,3.121320344,2.828427125,place-sthld,place-sthld,Sutherland Road
+1776,10.07106781,2.121320344,place-stplb,70140,Saint Paul Street - Inbound
+1777,10.07106781,2.121320344,place-stplb,70141,Saint Paul Street - Outbound
+1778,10.07106781,2.121320344,place-stplb,place-stplb,Saint Paul Street
+1785,9.192388155,4.242640687,place-stpul,70217,Saint Paul Street - Outbound
+1786,9.192388155,4.242640687,place-stpul,70218,Saint Paul Street - Inbound
+1787,9.192388155,4.242640687,place-stpul,place-stpul,Saint Paul Street
+1794,8.485281374,3.0,place-sull,2874,Sullivan Square Upper Busway
+1795,8.485281374,3.0,place-sull,28741,Sullivan Station Lower Busway
+1796,8.485281374,3.0,place-sull,70030,Sullivan Square - Inbound
+1797,8.485281374,3.0,place-sull,70031,Sullivan Square - Outbound
+1798,8.485281374,3.0,place-sull,place-sull,Sullivan Square
+1819,7.778174593,5.656854249,place-sumav,70223,Summit Avenue - Outbound
+1820,7.778174593,5.656854249,place-sumav,70224,Summit Avenue - Inbound
+1821,7.778174593,5.656854249,place-sumav,place-sumav,Summit Ave.
+1828,14.89949494,8.363961031,place-symcl,70241,Symphony - Outbound
+1829,14.89949494,8.363961031,place-symcl,70242,Symphony - Inbound
+1830,14.89949494,8.363961031,place-symcl,place-symcl,Symphony
+1837,4.949747468,8.485281374,place-tapst,70231,Tappan Street - Outbound
+1838,4.949747468,8.485281374,place-tapst,70232,Tappan Street - Inbound
+1839,4.949747468,8.485281374,place-tapst,place-tapst,Tappan Street
+1846,5.656854249,8.828427125,place-tumnl,49002,Washington St @ Tufts Med Ctr
+1847,5.656854249,8.828427125,place-tumnl,6565,Washington St @ Tufts Med Ctr
+1848,5.656854249,8.828427125,place-tumnl,70016,Tufts Medical Center - Outbound
+1849,5.656854249,8.828427125,place-tumnl,70017,Tufts Medical Center - Inbound
+1850,5.656854249,8.828427125,place-tumnl,place-tumnl,Tufts Medical Center
+1880,5.121320344,14.14213562,place-waban,70164,Waban - Inbound
+1881,5.121320344,14.14213562,place-waban,70165,Waban - Outbound
+1882,5.121320344,14.14213562,place-waban,place-waban,Waban
+1889,3.828427125,2.121320344,place-wascm,70120,Washington Street - Inbound
+1890,3.828427125,2.121320344,place-wascm,70121,Washington Street - Outbound
+1891,3.828427125,2.121320344,place-wascm,place-wascm,Washington Street
+1898,8.485281374,2.0,place-welln,70032,Wellington - Inbound
+1899,8.485281374,2.0,place-welln,70033,Wellington - Outbound
+1900,8.485281374,2.0,place-welln,place-welln,Wellington
+1907,10.89949494,6.0,place-wimnl,5666,Wood Island Station Busway
+1908,10.89949494,6.0,place-wimnl,70049,Wood Island - Inbound
+1909,10.89949494,6.0,place-wimnl,70050,Wood Island - Outbound
+1910,10.89949494,6.0,place-wimnl,place-wimnl,Wood Island
+1927,9.192388155,12.53553391,place-wlsta,70099,Wollaston - Outbound
+1928,9.192388155,12.53553391,place-wlsta,70100,Wollaston - Inbound
+1929,9.192388155,12.53553391,place-wlsta,place-wlsta,Wollaston
+1936,14.43502884,2.464466094,place-wondl,15778,Ocean Ave @ Chester Ave
+1937,14.43502884,2.464466094,place-wondl,15795,Wonderland Busway
+1938,14.43502884,2.464466094,place-wondl,70059,Wonderland - Inbound
+1939,14.43502884,2.464466094,place-wondl,70060,Wonderland - Outbound
+1940,14.43502884,2.464466094,place-wondl,place-wondl,Wonderland
+1961,4.414213562,14.8492424,place-woodl,70162,Woodland - Inbound
+1962,4.414213562,14.8492424,place-woodl,70163,Woodland - Outbound
+1963,4.414213562,14.8492424,place-woodl,place-woodl,Woodland
+1970,4.535533906,1.414213562,place-wrnst,70124,Warren Street - Inbound
+1971,4.535533906,1.414213562,place-wrnst,70125,Warren Street - Outbound
+1972,4.535533906,1.414213562,place-wrnst,place-wrnst,Warren Street
