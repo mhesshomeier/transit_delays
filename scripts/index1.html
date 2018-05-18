@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+  </style>
+</head>
+<body>
+<svg id="stacked" width="960" height="600"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<!-- <script src="stacked.js"></script> -->
+</body>
+</html>
+
+<script>
+
+/* 1. Load and pre-process the data
+ *************************************************************/
+// VIZ.
+VIZ.requiresData([
+  'json!data/delay.json',
+  'json!data1/station_allgreen.json',
+  'json!data1/spider_allgreen.json',
+  'json!data/average-actual-delays.json'
+], true).progress(function (percent) {
+  "use strict";
+  d3.selectAll(".interaction-all .loading").text('Loading delay data... ' + percent + '%').style('text-align', 'center');
+}).onerror(function () {
+  "use strict";
+  d3.select(".interaction-all .loading").text('Error loading delay data').style('text-align', 'center');
+}).done(function (delay, network, spider, averageActualDelays) {
+  "use strict";
+  d3.select(".interaction-all .loading").remove();
+
+  var delays = {};
+  var entrances = {};
+  delay.sort(function (a, b) {
+    return d3.ascending(a.secOfDay, b.secOfDay);
+  });
+  network.links.forEach(function (link) {
+    link.source = network.nodes[link.source];
+    link.target = network.nodes[link.target];
+    link.source.links = link.source.links || [];
+    link.target.links = link.target.links || [];
+    link.target.links.splice(0, 0, link);
+    link.source.links.splice(0, 0, link);
+  });
+  network.nodes.forEach(function (data) {
+    data.x = spider[data.id][0];
+    data.y = spider[data.id][1];
+  });
+  var xRange = d3.extent(network.nodes, function (d) { return d.x; });
+  var yRange = d3.extent(network.nodes, function (d) { return d.y; });
+  var byDay = _.chain(delay)
+    .groupBy('day')
+    .toArray()
+    .sortBy(function (d) { return d[0].day; })
+    .value();
+
+
+
+
+    /* 3. Render the map-glyph
+     *************************************************************/
+
+
+var encodeSvgLine = d3.svg.line()
+  .x(function(d) { return d[0]; })
+  .y(function(d) { return d[1]; })
+  .defined(function (d) { return !!d; })
+  .interpolate("linear");
+var glyphMargin = {top: 20,right: 20, bottom: 25,left: 20};
+var glyphOuterHeight = 300;
+var glyphOuterWidth = 300;
+var glyphWidth = glyphOuterWidth - glyphMargin.left - glyphMargin.right,
+    glyphHeight = glyphOuterHeight - glyphMargin.top - glyphMargin.bottom;
+
+var glyph = d3.select(".interaction-all .left .glyph").append('svg')
+    .attr('class', 'breathing-glyph dimmable')
+    .attr('width', glyphOuterWidth)
+    .attr('height', glyphOuterHeight)
+  .append('g')
+    .attr('transform', 'translate(' + (glyphMargin.left) + ',' + (glyphMargin.top) + ')');
+
+var timeDisplayBelowMapGlyph = glyph.append('text')
+  .attr('x', glyphWidth / 2)
+  .attr('y', glyphHeight + 20)
+  .attr('text-anchor', 'middle');
+
+var xScale = glyphWidth / (xRange[1] - xRange[0]);
+var yScale = glyphHeight / (yRange[1] - yRange[0]);
+
+var scale = Math.min(xScale, yScale);
+var endDotRadius = 0.3 * scale;
+var distScale = d3.scale.linear()
+  .domain([0, 100])
+  .range([0.15 * scale, 0.7 * scale]);
+
+var redGreenDelayColorScale = d3.scale.linear()
+    .interpolate(d3.interpolateLab)
+    .domain([2, 1, 0.3])
+    .range(['rgb(0, 104, 55)', 'rgb(255, 255, 255)', 'rgb(165, 0, 38)']);
+
+function mapGlyphSegmentColor(d) {
+  var speed = delays[d.ids];
+  var color;
+  if (speed === null || typeof speed === 'undefined') {
+    color = 'white';
+  } else {
+    color = redGreenDelayColorScale(speed);
+  }
+  return color;
+}
+network.nodes.forEach(function (data) {
+  data.pos = [data.x * scale, data.y * scale];
+});
+
+var tip = d3.tip()
+    .attr('class', 'd3-tip')
+    .offset([-10, 0])
+    .html(function(d) { return d.name; });
+glyph.call(tip);
+
+var glyphSegmentOutlines = glyph.selectAll('.connect')
+    .data(function (d) { return network.links.map(function (link) { return { link: link, day: d }; }); })
+    .enter()
+  .append('g')
+    .attr('class', 'connect');
+
+glyphSegmentOutlines.append('g')
+    .attr('class', function (d) { return d.link.line + '-glyph ' + d.link.source.id + '-' + d.link.target.id; })
+  .append('path')
+    .datum(function (d) {
+      return {
+        incoming: getLinksGoingToNode(d.link.source),
+        line: d.link.line,
+        ids: d.link.source.id + '|' + d.link.target.id,
+        segment: [d.link.source.pos, d.link.target.pos],
+        outgoing: getLinksLeavingFromNode(d.link.target),
+        name: d.link.source.name + " to " + d.link.target.name
+      };
+    })
+    .attr('fill', mapGlyphSegmentColor)
+    .attr('d', mapGlyphSegmentVertices)
+    .on('mouseover.tip', tip.show)
+    .on('mouseout.tip', tip.hide);
+
+glyphSegmentOutlines.append('g')
+    .attr('class', function (d) { return d.link.line + '-glyph ' + d.link.target.id + '-' + d.link.source.id; })
+  .append('path')
+    .datum(function (d) {
+      return {
+        incoming: getLinksGoingToNode(d.link.target),
+        line: d.link.line,
+        ids: d.link.target.id + '|' + d.link.source.id,
+        segment: [d.link.target.pos, d.link.source.pos],
+        outgoing: getLinksLeavingFromNode(d.link.source),
+        name: d.link.target.name + " to " + d.link.source.name
+      };
+    })
+    .attr('fill', mapGlyphSegmentColor)
+    .attr('d', mapGlyphSegmentVertices)
+    .on('mouseover.tip', tip.show)
+    .on('mouseout.tip', tip.hide);
+
+// Draw a colored dot at the end of each line
+drawLineEndDot('place-asmnl', "#E12D27");
+drawLineEndDot('place-alfcl', "#E12D27");
+drawLineEndDot('place-brntn', "#E12D27");
+drawLineEndDot('place-wondl', "#2F5DA6");
+drawLineEndDot('place-bomnl', "#2F5DA6");
+drawLineEndDot('place-forhl', "#E87200");
+drawLineEndDot('place-ogmnl', "#E87200");
+
+});
+</script>
+
+</html>
