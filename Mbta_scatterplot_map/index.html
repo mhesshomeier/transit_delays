@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Mbta Station Map</title>
+		<script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+		<style type="text/css">
+			.axis {
+				font: 10px sans-serif;
+			}
+			.axis path,
+			.axis line {
+				fill: none;
+				stroke: #000;
+				shape-rendering: crispEdges;
+			}
+		</style>
+	</head>
+	<body>
+		<script type="text/javascript">
+var mapCoords = [];
+d3.csv("data/mbta_scatter_coords.csv", function(d) {
+	return {
+		old_id : d.Station,
+    x : +d.x,
+    y : +d.y,
+    new_id : d.stop_id_new,
+    name : d.stop_name_new
+	};
+// var mapLinks = {};
+// d3.json("data/station_allgreen.json", funtion(network)
+// network.links.forEach(function (link) {
+//   link.source = network.nodes[link.source];
+//   link.target = network.nodes[link.target];
+//   link.source.links = link.source.links || [];
+//   link.target.links = link.target.links || [];
+//   link.target.links.splice(0, 0, link);
+//   link.source.links.splice(0, 0, link);
+// }));
+}, function(error, rows) {
+	mapCoords = rows;
+	console.log(mapCoords);
+	createVisualization();
+});
+function createVisualization(){
+	//Width and height
+	var w = 500;
+	var h = 500;
+	var padding = 30;
+	var xScale = d3.scale.linear()
+		.domain([0, d3.max(mapCoords, function(d) {
+			return d.x;
+		})])
+		.range([padding, w - padding]);
+	var yScale = d3.scale.linear()
+		.domain([0, d3.max(mapCoords, function(d) {
+			return d.y;
+		})])
+		.range([padding, h - padding]);
+	// var xAxis = d3.svg.axis()
+	// 	.scale(xScale)
+	// 	.orient("bottom")
+	// 	.ticks(5);
+	// var yAxis = d3.svg.axis()
+	// 	.scale(yScale)
+	// 	.orient("left")
+	// 	.ticks(5);
+	var tooltip = d3.select("body")
+		.append("div")
+		.style("position", "absolute")
+		.style("font-family", "sans-serif")
+		.style("font-size", "10px")
+		.style("z-index", "10")
+		.style("visibility", "hidden");
+	//Create SVG element
+	var svg = d3.select("body")
+				.append("svg")
+				.attr("width", w)
+				.attr("height", h);
+		svg.selectAll("circle")
+			.data(mapCoords)
+			.enter()
+			.append("circle")
+			.attr("cx", function(d) {
+					return xScale(d.x);
+			})
+			.attr("cy", function(d) {
+					return yScale(d.y);
+			})
+			.attr("r", 5)
+			.on("mouseover", function(d){
+				return tooltip.style("visibility", "visible").text(d.name);
+			})
+			.on("mousemove", function(d){
+				return tooltip.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px").text(d.name);
+			})
+			.on("mouseout", function(d){
+				return tooltip.style("visibility", "hidden");
+			});
+		// svg.append("g")
+		// 	.attr("class", "axis")
+		// 	.attr("transform", "translate(0," + (h - padding) + ")")
+		// 	.call(xAxis);
+		// svg.append("g")
+		// 	.attr("class", "axis")
+		// 	.attr("transform", "translate(" + padding + ", 0)")
+		// 	.call(yAxis);
+	}
+
+		</script>
+	</body>
+</html>
