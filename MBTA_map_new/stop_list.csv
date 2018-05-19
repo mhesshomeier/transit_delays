@@ -1,0 +1,115 @@
+,to_stop,from_stop,stop_name_new,stop_id_new,stop_id_old
+0,70057,70060,Revere Beach - Inbound,70057,place-rbmnl
+3,70055,70057,Beachmont - Inbound,70055,place-bmmnl
+8,70053,70055,Suffolk Downs - Inbound,70053,place-sdmnl
+11,70051,70053,Orient Heights - Inbound,70051,place-orhte
+17,70049,70051,Wood Island - Inbound,70049,place-wimnl
+22,70047,70049,Airport - Inbound,70047,place-aport
+26,70045,70047,Maverick - Inbound,70045,place-mvbcl
+31,70043,70045,Aquarium - Inbound,70043,place-aqucl
+34,70022,70043,State Street - to Forest Hills,70022,place-state
+40,70022,70024,State Street - to Forest Hills,70022,place-state
+46,70039,70022,Government Center - to Bowdoin,70039,place-gover
+52,70039,70024,Government Center - to Bowdoin,70039,place-gover
+58,70038,70039,Bowdoin - Inbound,70038,place-bomnl
+60,70034,70036,Malden - Inbound,70034,place-mlmnl
+66,70032,70034,Wellington - Inbound,70032,place-welln
+69,70278,70032,Assembly - Inbound,70278,place-astao
+72,70030,70278,Sullivan Square - Inbound,70030,place-sull
+77,70028,70030,Community College - Inbound,70028,place-ccmnl
+80,70026,70028,North Station - Orange Line Inbound,70026,place-north
+87,70026,70207,North Station - Orange Line Inbound,70026,place-north
+94,70024,70026,Haymarket - Orange Line Inbound,70024,place-haecl
+106,70020,70022,Downtown Crossing - to Forest Hills,70020,place-dwnxg
+111,70020,70075,Downtown Crossing - to Forest Hills,70020,place-dwnxg
+116,70018,70020,Chinatown - Outbound,70018,place-chncl
+119,70016,70018,Tufts Medical Center - Outbound,70016,place-tumnl
+124,70014,70016,Back Bay - Outbound,70014,place-bbsta
+130,70012,70014,Massachusetts Avenue - Outbound,70012,place-masta
+135,70010,70012,Ruggles - Outbound,70010,place-rugg
+142,70008,70010,Roxbury Crossing - Outbound,70008,place-rcmnl
+148,70006,70008,Jackson Square - Outbound,70006,place-jaksn
+152,70004,70006,Stony Brook - Outbound,70004,place-sbmnl
+155,70002,70004,Green Street - Outbound,70002,place-grnst
+158,70001,70002,Forest Hills Orange Line,70001,place-forhl
+163,70063,70061,Davis - Inbound,70063,place-davis
+167,70065,70063,Porter - Inbound,70065,place-portr
+172,70067,70065,Harvard - Inbound,70067,place-harsq
+177,70069,70067,Central - Inbound,70069,place-cntsq
+181,70071,70069,Kendall/MIT - Inbound,70071,place-knncl
+185,70073,70071,Charles/MGH - Inbound,70073,place-chmnl
+188,70075,70073,Park Street - to Ashmont/Braintree,70075,place-pktrm
+196,70075,70039,Park Street - to Ashmont/Braintree,70075,place-pktrm
+204,70079,70020,South Station - Outbound,70079,place-sstat
+210,70081,70079,Broadway - Outbound,70081,place-brdwy
+215,70083,70081,Andrew - Outbound,70083,place-andrw
+219,70085,70083,JFK/UMASS Ashmont - Outbound,70085,place-jfk
+225,70087,70085,Savin Hill - Outbound,70087,place-shmnl
+228,70089,70087,Fields Corner - Outbound,70089,place-fldcr
+232,70091,70089,Shawmut - Outbound,70091,place-smmnl
+235,70093,70091,Ashmont - Outbound,70093,place-asmnl
+243,70097,70085,North Quincy - Outbound,70097,place-nqncy
+247,70099,70097,Wollaston - Outbound,70099,place-wlsta
+250,70101,70099,Quincy Center - Outbound,70101,place-qnctr
+260,70103,70101,Quincy Adams - Outbound,70103,place-qamnl
+264,70105,70103,Braintree,70105,place-brntn
+267,70207,70209,Science Park - Outbound,70207,place-spmnl
+270,70158,70075,Boylston - Inbound,70158,place-boyls
+273,70156,70158,Arlington - Inbound,70156,place-armnl
+276,70154,70156,Copley - Inbound,70154,place-coecl
+280,70152,70154,Hynes - Inbound,70152,place-hymnl
+285,70150,70152,Kenmore - Inbound,70150,place-kencl
+289,70148,70150,Blandford Street - Inbound,70148,place-bland
+292,70146,70148,Boston Univ East - Inbound,70146,place-buest
+295,70144,70146,Boston Univ Central - Inbound,70144,place-bucen
+298,70142,70144,Boston Univ West - Inbound,70142,place-buwst
+301,70140,70142,Saint Paul Street - Inbound,70140,place-stplb
+304,70138,70140,Pleasant Street - Inbound,70138,place-plsgr
+307,70136,70138,Babcock Street - Inbound,70136,place-babck
+310,70134,70136,Packards Corner - Inbound,70134,place-brico
+313,70130,70134,Harvard Avenue - Inbound,70130,place-harvd
+316,70128,70130,Griggs Street - Inbound,70128,place-grigg
+319,70126,70128,Allston Street - Inbound,70126,place-alsgr
+322,70124,70126,Warren Street - Inbound,70124,place-wrnst
+325,70120,70124,Washington Street - Inbound,70120,place-wascm
+328,70116,70120,Sutherland Road - Inbound,70116,place-sthld
+331,70114,70116,Chiswick Road - Inbound,70114,place-chswk
+334,70112,70114,Chestnut Hill Avenue - Inbound,70112,place-chill
+337,70110,70112,South Street - Inbound,70110,place-sougr
+340,70106,70110,Boston College - Inbound,70106,place-lake
+343,70211,70150,Saint Mary Street - Outbound,70211,place-smary
+346,70213,70211,Hawes Street - Outbound,70213,place-hwsst
+349,70215,70213,Kent Street - Outbound,70215,place-kntst
+352,70217,70215,Saint Paul Street - Outbound,70217,place-stpul
+355,70219,70217,Coolidge Corner - Outbound,70219,place-cool
+360,70223,70219,Summit Avenue - Outbound,70223,place-sumav
+363,70225,70223,Brandon Hall - Outbound,70225,place-bndhl
+366,70227,70225,Fairbanks Street - Outbound,70227,place-fbkst
+369,70229,70227,Washington Square - Outbound,70229,place-bcnwa
+374,70231,70229,Tappan Street - Outbound,70231,place-tapst
+377,70233,70231,Dean Road - Outbound,70233,place-denrd
+380,70235,70233,Englewood Avenue - Outbound,70235,place-engav
+383,70237,70235,Cleveland Circle - Outbound,70237,place-clmnl
+386,70186,70150,Fenway - Inbound,70186,place-fenwy
+391,70182,70186,Longwood - Inbound,70182,place-longw
+394,70180,70182,Brookline Village - Inbound,70180,place-bvmnl
+397,70178,70180,Brookline Hills - Inbound,70178,place-brkhl
+400,70176,70178,Beaconsfield - Inbound,70176,place-bcnfd
+403,70174,70176,Reservoir - Inbound,70174,place-rsmnl
+407,70172,70174,Chestnut Hill - Inbound,70172,place-chhil
+410,70170,70172,Newton Centre - Inbound,70170,place-newto
+413,70168,70170,Newton Highlands - Inbound,70168,place-newtn
+416,70166,70168,Eliot - Inbound,70166,place-eliot
+419,70164,70166,Waban - Inbound,70164,place-waban
+422,70162,70164,Woodland - Inbound,70162,place-woodl
+425,70160,70162,Riverside - Inbound,70160,place-river
+429,70239,70154,Prudential - Outbound,70239,place-prmnl
+432,70241,70239,Symphony - Outbound,70241,place-symcl
+435,70243,70241,Northeastern - Outbound,70243,place-nuniv
+440,70245,70243,Museum of Fine Arts - Outbound,70245,place-mfa
+443,70247,70245,Longwood Medical Area - Outbound,70247,place-lngmd
+446,70249,70247,Brigham Circle - Outbound,70249,place-brmnl
+450,70251,70249,Fenwood Road - Outbound,70251,place-fenwd
+453,70253,70251,Mission Park - Outbound,70253,place-mispk
+456,70255,70253,Riverway - Outbound,70255,place-rvrwy
+459,70257,70255,Back of the Hill - Outbound,70257,place-bckhl

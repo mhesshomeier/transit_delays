@@ -95,4 +95,4 @@ df_stop_pair2.shape
 df_stop_pair2.drop_duplicates(subset=['to_stop', 'from_stop'], inplace = True)
 df_stop_pair2.shape
 
-# df_stop_pair2.to_csv('MBTA_map_new/stop_list.csv')
+df_stop_pair2.to_csv('MBTA_map_new/stop_list.csv')
