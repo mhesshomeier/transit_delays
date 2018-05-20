@@ -1,0 +1,32 @@
+,origin_id,origin_name,origin_lat,origin_lon,dest_id,dest_name,dest_lat,dest_long,line
+31,70061,Alewife,42.395428,-71.142483,70077,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,Red
+32,70063,Davis - Inbound,42.39674,-71.121815,70077,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,Red
+33,70065,Porter - Inbound,42.3884,-71.119149,70077,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,Red
+34,70067,Harvard - Inbound,42.373362,-71.11895600000001,70077,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,Red
+35,70069,Central - Inbound,42.365486,-71.103802,70077,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,Red
+36,70071,Kendall/MIT - Inbound,42.36249079,-71.08617653,70077,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,Red
+37,70073,Charles/MGH - Inbound,42.361166,-71.070628,70077,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,Red
+38,70075,Park Street - to Ashmont/Braintree,42.35639457,-71.06242420000001,70077,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,Red
+39,70080,South Station - Inbound,42.352271,-71.055242,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+40,70082,Broadway - Inbound,42.342622,-71.056967,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+41,70084,Andrew - Inbound,42.330154,-71.05765500000001,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+42,70086,JFK/UMASS Ashmont - Inbound,42.320685,-71.052391,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+43,70088,Savin Hill - Inbound,42.31129,-71.053331,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+44,70090,Fields Corner - Inbound,42.300093,-71.061667,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+45,70092,Shawmut - Inbound,42.29312583,-71.06573796,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+46,70094,Ashmont - Inbound,42.284652,-71.064489,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+47,70261,Ashmont - Mattapan Line,42.284652,-71.064489,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+48,70262,Ashmont - Mattapan Line Inbound,42.284652,-71.064489,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+49,70264,Cedar Grove - Inbound,42.279682,-71.06043199999999,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+50,70266,Butler - Inbound,42.272343,-71.062584,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+51,70268,Milton - Inbound,42.270306,-71.067673,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+52,70270,Central Avenue - Inbound,42.270027,-71.073334,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+53,70272,Valley Road - Inbound,42.268322,-71.08156600000001,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+54,70274,Capen Street - Inbound,42.267712,-71.087753,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+55,70276,Mattapan - Inbound,42.267762,-71.092241,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+56,70096,JFK/UMASS Braintree - Inbound,42.320685,-71.052391,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+57,70098,North Quincy - Inbound,42.275275,-71.029583,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+58,70100,Wollaston - Inbound,42.2665139,-71.0203369,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+59,70102,Quincy Center - Inbound,42.251809,-71.005409,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+60,70104,Quincy Adams - Inbound,42.233391,-71.007153,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red
+61,70105,Braintree,42.207854299999994,-71.0011385,70078,Downtown Crossing - to Alewife,42.355518,-71.060225,Red

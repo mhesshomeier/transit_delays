@@ -1,0 +1,1452 @@
+,arr_dt,benchmark_travel_time_sec,dep_dt,dest_id,dest_name,direction,origin_id,origin_name,route_id,threshold_flag_1,threshold_flag_2,threshold_flag_3,travel_time_sec
+0,1514419319,1320,1514417724,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1595
+1,1514419640,1320,1514417978,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1662
+2,1514419838,1320,1514418181,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1657
+3,1514420053,1320,1514418404,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1649
+4,1514420245,1320,1514418579,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1666
+5,1514420439,1320,1514418840,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1599
+6,1514420642,1320,1514419014,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1628
+7,1514420868,1320,1514419245,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1623
+8,1514421092,1320,1514419421,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1671
+9,1514421268,1320,1514419668,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1600
+10,1514421564,1320,1514419858,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,,1706
+11,1514421761,1320,1514420122,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1639
+12,1514421995,1320,1514420464,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1531
+13,1514422252,1320,1514420804,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1448
+14,1514422423,1320,1514421068,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1355
+15,1514422616,1320,1514421349,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1267
+16,1514422928,1240,1514421682,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1246
+17,1514423435,1240,1514422188,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1247
+18,1514423700,1240,1514422459,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1241
+19,1514424112,1240,1514422891,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1221
+20,1514424582,1240,1514423288,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1294
+21,1514424999,1200,1514423770,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1229
+22,1514425249,1200,1514423977,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1272
+23,1514425623,1200,1514424465,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1158
+24,1514425916,1200,1514424681,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1235
+25,1514426150,1200,1514424959,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1191
+26,1514426725,1200,1514425552,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1173
+27,1514427012,1200,1514425810,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1202
+28,1514427487,1200,1514426318,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1169
+29,1514427827,1200,1514426565,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1262
+30,1514428424,1200,1514427094,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1330
+31,1514428646,1200,1514427423,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1223
+32,1514429202,1200,1514427934,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1268
+33,1514429482,1200,1514428250,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1232
+34,1514429767,1200,1514428557,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1210
+35,1514430142,1200,1514428919,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1223
+36,1514430495,1200,1514429291,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1204
+37,1514430901,1200,1514429646,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1255
+38,1514431192,1200,1514429995,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1197
+39,1514431609,1200,1514430360,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1249
+40,1514431851,1200,1514430699,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1152
+41,1514432284,1200,1514431016,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1268
+42,1514432602,1200,1514431383,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1219
+43,1514432821,1200,1514431621,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1200
+44,1514433182,1200,1514432002,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1180
+45,1514433737,1200,1514432468,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1269
+46,1514434059,1200,1514432873,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1186
+47,1514434477,1200,1514433215,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1262
+48,1514434708,1200,1514433488,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1220
+49,1514435349,1200,1514434059,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1290
+50,1514435595,1200,1514434349,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1246
+51,1514436016,1200,1514434780,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1236
+52,1514436319,1200,1514435149,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1170
+53,1514436686,1200,1514435402,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1284
+54,1514436958,1200,1514435761,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1197
+55,1514437309,1200,1514436088,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1221
+56,1514437538,1200,1514436401,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1137
+57,1514437999,1200,1514436817,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1182
+58,1514438190,1200,1514437014,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1176
+59,1514438422,1200,1514437237,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1185
+60,1514438899,1200,1514437771,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1128
+61,1514439492,1200,1514438316,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1176
+62,1514440211,1200,1514439018,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1193
+63,1514458645,1140,1514457424,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1221
+64,1514459114,1140,1514457861,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1253
+65,1514459735,1140,1514458474,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1261
+66,1514460512,1140,1514459214,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1298
+67,1514461018,1140,1514459697,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1321
+68,1514461250,1140,1514460014,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1236
+69,1514461681,1140,1514460385,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1296
+70,1514461912,1140,1514460740,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1172
+71,1514462230,1140,1514461031,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1199
+72,1514462922,1277,1514461581,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1341
+73,1514463663,1277,1514461831,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,,1832
+74,1514464059,1277,1514462294,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,,1765
+75,1514464905,1320,1514463677,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1228
+76,1514465327,1320,1514464019,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1308
+77,1514466771,1320,1514464403,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,threshold_id_06,2368
+78,1514467586,1320,1514466016,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1570
+79,1514467807,1320,1514466260,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1547
+80,1514468010,1320,1514466588,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1422
+81,1514468205,1320,1514466767,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1438
+82,1514468459,1320,1514466992,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1467
+83,1514468683,1320,1514467180,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1503
+84,1514468888,1320,1514467514,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1374
+85,1514469137,1320,1514467736,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1401
+86,1514469305,1320,1514467943,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1362
+87,1514469505,1320,1514468261,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1244
+88,1514469824,1320,1514468502,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1322
+89,1514470009,1320,1514468669,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1340
+90,1514470233,1320,1514468913,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1320
+91,1514470414,1320,1514469126,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1288
+92,1514470608,1320,1514469360,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1248
+93,1514470801,1320,1514469575,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1226
+94,1514471187,1320,1514469817,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1370
+95,1514471403,1222,1514470128,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1275
+96,1514471795,1222,1514470420,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1375
+97,1514472041,1222,1514470770,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1271
+98,1514472467,1222,1514471090,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1377
+99,1514472776,1222,1514471558,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1218
+100,1514473172,1222,1514471931,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1241
+101,1514473446,1200,1514472247,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1199
+102,1514473850,1200,1514472615,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1235
+103,1514474276,1200,1514473058,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1218
+104,1514477325,1200,1514473877,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,threshold_id_06,3448
+105,1514477914,1200,1514474764,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,threshold_id_06,3150
+106,1514478141,1200,1514475009,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,threshold_id_06,3132
+107,1514478329,1200,1514475182,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,threshold_id_06,3147
+108,1514478495,1200,1514476868,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,,1627
+109,1514478675,1200,1514477111,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,,1564
+110,1514478865,1200,1514477422,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1443
+111,1514479294,1200,1514477714,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,,1580
+112,1514479560,1200,1514477894,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,,1666
+113,1514479961,1200,1514478310,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,,1651
+114,1514480162,1200,1514478804,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1358
+115,1514480736,1200,1514479324,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1412
+116,1514481039,1200,1514479681,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1358
+117,1514481447,1200,1514480188,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1259
+118,1514481938,1200,1514480690,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1248
+119,1514482585,1200,1514481301,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1284
+120,1514482916,1200,1514481592,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1324
+121,1514483268,1200,1514482056,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1212
+122,1514484051,1200,1514482531,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1520
+123,1514484894,1200,1514482916,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,threshold_id_06,1978
+124,1514486044,1200,1514483733,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,threshold_id_06,2311
+125,1514486301,1200,1514484888,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1413
+126,1514486554,1200,1514485140,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1414
+127,1514486748,1200,1514485345,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1403
+128,1514486992,1200,1514485590,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1402
+129,1514487183,1200,1514485867,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1316
+130,1514487523,1200,1514486208,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1315
+131,1514487844,1260,1514486568,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1276
+132,1514488375,1260,1514487017,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1358
+133,1514488652,1260,1514487343,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1309
+134,1514489129,1260,1514487796,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1333
+135,1514489343,1260,1514488107,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1236
+136,1514490180,1260,1514488750,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1430
+137,1514490842,1260,1514489560,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1282
+138,1514492143,1260,1514489790,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,threshold_id_06,2353
+139,1514493231,1260,1514490095,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,threshold_id_05,threshold_id_06,3136
+140,1514494028,1260,1514492527,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,threshold_id_04,,,1501
+141,1514494252,1260,1514492861,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1391
+142,1514494527,1260,1514493135,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1392
+143,1514494713,1260,1514493420,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1293
+144,1514494977,1260,1514493643,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1334
+145,1514495183,1260,1514493922,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1261
+146,1514495501,1260,1514494154,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1347
+147,1514495723,1260,1514494341,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1382
+148,1514495999,1260,1514494669,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1330
+149,1514496247,1260,1514494861,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1386
+150,1514496497,1260,1514495218,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1279
+151,1514496703,1388,1514495403,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1300
+152,1514496935,1388,1514495628,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1307
+153,1514497220,1388,1514495997,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1223
+154,1514497765,1388,1514496323,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1442
+155,1514498101,1388,1514496726,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1375
+156,1514498542,1440,1514497144,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1398
+157,1514498857,1440,1514497541,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1316
+158,1514499723,1440,1514498313,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1410
+159,1514499986,1440,1514498663,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1323
+160,1514500210,1440,1514498904,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1306
+161,1514500412,1440,1514499153,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1259
+162,1514500755,1440,1514499408,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1347
+163,1514501189,1440,1514499805,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1384
+164,1514501426,1440,1514500106,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1320
+165,1514501764,1440,1514500346,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1418
+166,1514502078,1345,1514500846,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1232
+167,1514502331,1345,1514501080,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1251
+168,1514502924,1345,1514501572,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1352
+169,1514503320,1345,1514501967,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1353
+170,1514503690,1345,1514502330,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1360
+171,1514503878,1320,1514502543,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1335
+172,1514504064,1320,1514502760,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1304
+173,1514504427,1320,1514503006,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1421
+174,1514504614,1320,1514503240,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1374
+175,1514504809,1320,1514503488,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1321
+176,1514504996,1320,1514503699,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1297
+177,1514505307,1320,1514503937,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1370
+178,1514505483,1320,1514504125,70077,Downtown Crossing - to Ashmont/Braintree,0,70061,Alewife,Red,,,,1358
+0,1514419319,1200,1514417931,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,,,1388
+1,1514419640,1200,1514418199,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,,,1441
+2,1514419838,1200,1514418356,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,,,1482
+3,1514420053,1200,1514418624,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,,,1429
+4,1514420245,1200,1514418753,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,,,1492
+5,1514420439,1200,1514419039,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,,,1400
+6,1514420642,1200,1514419171,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,,,1471
+7,1514420868,1200,1514419444,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,,,1424
+8,1514421092,1200,1514419587,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,,,1505
+9,1514421268,1200,1514419869,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,,,1399
+10,1514421564,1200,1514420017,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,,,1547
+11,1514421761,1200,1514420412,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1349
+12,1514421995,1200,1514420630,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1365
+13,1514422252,1200,1514421034,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1218
+14,1514422423,1200,1514421243,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1180
+15,1514422616,1200,1514421547,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1069
+16,1514422928,1120,1514421847,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1081
+17,1514423435,1120,1514422361,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1074
+18,1514423700,1120,1514422659,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1041
+19,1514424112,1120,1514423063,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1049
+20,1514424582,1120,1514423505,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1077
+21,1514424999,1080,1514423948,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1051
+22,1514425249,1080,1514424202,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1047
+23,1514425623,1080,1514424630,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,993
+24,1514425916,1080,1514424885,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1031
+25,1514426150,1080,1514425131,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1019
+26,1514426725,1080,1514425713,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1012
+27,1514427012,1080,1514426010,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1002
+28,1514427487,1080,1514426479,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1008
+29,1514427827,1080,1514426771,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1056
+30,1514428424,1080,1514427317,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1107
+31,1514428646,1080,1514427589,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1057
+32,1514429202,1080,1514428106,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1096
+33,1514429482,1080,1514428452,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1030
+34,1514429767,1080,1514428718,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1049
+35,1514430142,1080,1514429122,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1020
+36,1514430495,1080,1514429452,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1043
+37,1514430901,1080,1514429857,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1044
+38,1514431192,1080,1514430157,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1035
+39,1514431609,1080,1514430566,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1043
+40,1514431851,1080,1514430860,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,991
+41,1514432284,1080,1514431213,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1071
+42,1514432602,1080,1514431558,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1044
+43,1514432821,1080,1514431822,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,999
+44,1514433182,1080,1514432167,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1015
+45,1514433737,1080,1514432671,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1066
+46,1514434059,1080,1514433026,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1033
+47,1514434477,1080,1514433416,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1061
+48,1514434708,1080,1514433651,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1057
+49,1514435349,1080,1514434264,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1085
+50,1514435595,1080,1514434533,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1062
+51,1514436016,1080,1514434986,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1030
+52,1514436319,1080,1514435307,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1012
+53,1514436686,1080,1514435603,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1083
+54,1514436958,1080,1514435942,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1016
+55,1514437309,1080,1514436289,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1020
+56,1514437538,1080,1514436559,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,979
+57,1514437999,1080,1514437012,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,987
+58,1514438190,1080,1514437175,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1015
+59,1514438422,1080,1514437441,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,981
+60,1514438899,1080,1514437929,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,970
+61,1514439492,1080,1514438477,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1015
+62,1514440211,1080,1514439195,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1016
+63,1514457471,1020,1514456450,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1021
+64,1514458044,1020,1514457009,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1035
+65,1514458426,1020,1514457415,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1011
+66,1514458645,1020,1514457645,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1000
+67,1514459114,1020,1514458064,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1050
+68,1514459735,1020,1514458708,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1027
+69,1514460512,1020,1514459411,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1101
+70,1514460838,1020,1514459733,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1105
+71,1514461018,1020,1514459859,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1159
+72,1514461250,1020,1514460212,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1038
+73,1514461681,1020,1514460603,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1078
+74,1514461912,1020,1514460905,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1007
+75,1514462230,1020,1514461239,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,991
+76,1514462922,1157,1514461747,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1175
+77,1514463663,1157,1514462044,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,threshold_id_05,,1619
+78,1514464059,1157,1514462462,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,threshold_id_05,,1597
+79,1514464905,1200,1514463859,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1046
+80,1514465327,1200,1514464209,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1118
+81,1514466771,1200,1514464579,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,2192
+82,1514467586,1200,1514466208,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1378
+83,1514467807,1200,1514466501,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1306
+84,1514468010,1200,1514466807,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1203
+85,1514468205,1200,1514466954,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1251
+86,1514468459,1200,1514467207,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1252
+87,1514468683,1200,1514467379,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1304
+88,1514468888,1200,1514467705,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1183
+89,1514469137,1200,1514467983,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1154
+90,1514469305,1200,1514468093,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1212
+91,1514469505,1200,1514468431,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1074
+92,1514469824,1200,1514468716,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1108
+93,1514470009,1200,1514468872,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1137
+94,1514470233,1200,1514469129,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1104
+95,1514470414,1200,1514469302,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1112
+96,1514470608,1200,1514469561,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1047
+97,1514470801,1200,1514469752,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1049
+98,1514471187,1200,1514470024,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1163
+99,1514471403,1102,1514470291,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1112
+100,1514471795,1102,1514470633,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1162
+101,1514472041,1102,1514470950,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1091
+102,1514472467,1102,1514471315,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1152
+103,1514472776,1102,1514471721,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1055
+104,1514473172,1102,1514472134,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1038
+105,1514473446,1080,1514472413,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1033
+106,1514473850,1080,1514472820,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1030
+107,1514474276,1080,1514473256,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1020
+108,1514477325,1080,1514474113,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,3212
+109,1514477914,1080,1514474936,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,2978
+110,1514478141,1080,1514475267,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,2874
+111,1514478329,1080,1514476766,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,threshold_id_05,,1563
+112,1514478495,1080,1514477047,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,threshold_id_05,,1448
+113,1514478675,1080,1514477325,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,,,1350
+114,1514478865,1080,1514477595,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,,,1270
+115,1514479294,1080,1514477922,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,,,1372
+116,1514479560,1080,1514478071,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,threshold_id_05,,1489
+117,1514479961,1080,1514478681,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,,,1280
+118,1514480162,1080,1514479006,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1156
+119,1514480736,1080,1514479585,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1151
+120,1514481039,1080,1514479929,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1110
+121,1514481447,1080,1514480384,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1063
+122,1514481938,1080,1514480858,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1080
+123,1514482585,1080,1514481477,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1108
+124,1514482916,1080,1514481791,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1125
+125,1514483268,1080,1514482202,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1066
+126,1514484051,1080,1514482732,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,,,1319
+127,1514484894,1080,1514483186,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,1708
+128,1514486044,1080,1514484842,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1202
+129,1514486301,1080,1514485181,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1120
+130,1514486554,1080,1514485402,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1152
+131,1514486748,1080,1514485534,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1214
+132,1514486992,1080,1514485794,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1198
+133,1514487183,1080,1514486058,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1125
+134,1514487523,1080,1514486425,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1098
+135,1514487844,1140,1514486732,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1112
+136,1514488375,1140,1514487235,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1140
+137,1514488652,1140,1514487516,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1136
+138,1514489129,1140,1514487974,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1155
+139,1514489343,1140,1514488307,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1036
+140,1514490180,1140,1514488918,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1262
+141,1514490842,1140,1514489735,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1107
+142,1514492143,1140,1514490003,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,2140
+143,1514493231,1140,1514490250,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,2981
+144,1514494028,1140,1514492771,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1257
+145,1514494252,1140,1514493071,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1181
+146,1514494527,1140,1514493330,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1197
+147,1514494713,1140,1514493582,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1131
+148,1514494977,1140,1514493867,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1110
+149,1514495183,1140,1514494084,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1099
+150,1514495501,1140,1514494354,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1147
+151,1514495723,1140,1514494513,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1210
+152,1514495999,1140,1514494892,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1107
+153,1514496247,1140,1514495076,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1171
+154,1514496497,1140,1514495425,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1072
+155,1514496703,1268,1514495567,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1136
+156,1514496935,1268,1514495839,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1096
+157,1514497220,1268,1514496163,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1057
+158,1514497765,1268,1514496540,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1225
+159,1514498101,1268,1514496892,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1209
+160,1514498542,1320,1514497367,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1175
+161,1514498857,1320,1514497730,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1127
+162,1514499723,1320,1514498518,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1205
+163,1514499986,1320,1514498842,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1144
+164,1514500210,1320,1514499123,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1087
+165,1514500412,1320,1514499331,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1081
+166,1514500755,1320,1514499632,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1123
+167,1514501189,1320,1514500063,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1126
+168,1514501426,1320,1514500285,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1141
+169,1514501764,1320,1514500549,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1215
+170,1514502078,1225,1514501011,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1067
+171,1514502331,1225,1514501286,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1045
+172,1514502924,1225,1514501816,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1108
+173,1514503320,1225,1514502151,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1169
+174,1514503690,1225,1514502548,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1142
+175,1514503878,1200,1514502717,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1161
+176,1514504064,1200,1514502960,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1104
+177,1514504427,1200,1514503211,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1216
+178,1514504614,1200,1514503414,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1200
+179,1514504809,1200,1514503695,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1114
+180,1514504996,1200,1514503876,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1120
+181,1514505307,1200,1514504150,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1157
+182,1514505483,1200,1514504298,70077,Downtown Crossing - to Ashmont/Braintree,0,70063,Davis - Inbound,Red,,,,1185
+0,1514419319,1080,1514418071,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1248
+1,1514419640,1080,1514418306,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,,,1334
+2,1514419838,1080,1514418485,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,,,1353
+3,1514420053,1080,1514418774,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,,,1279
+4,1514420245,1080,1514418913,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,,,1332
+5,1514420439,1080,1514419162,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,,,1277
+6,1514420642,1080,1514419294,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,,,1348
+7,1514420868,1080,1514419562,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,,,1306
+8,1514421092,1080,1514419712,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,,,1380
+9,1514421268,1080,1514419980,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,,,1288
+10,1514421564,1080,1514420245,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,,,1319
+11,1514421761,1080,1514420539,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1222
+12,1514421995,1080,1514420756,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1239
+13,1514422252,1080,1514421161,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1091
+14,1514422423,1080,1514421369,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1054
+15,1514422616,1080,1514421676,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,940
+16,1514422928,1000,1514422022,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,906
+17,1514423435,1000,1514422489,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,946
+18,1514423700,1000,1514422785,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,915
+19,1514424112,1000,1514423185,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,927
+20,1514424582,1000,1514423637,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,945
+21,1514424999,960,1514424077,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,922
+22,1514425249,960,1514424325,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,924
+23,1514425623,960,1514424749,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,874
+24,1514425916,960,1514425011,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,905
+25,1514426150,960,1514425257,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,893
+26,1514426725,960,1514425834,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,891
+27,1514427012,960,1514426129,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,883
+28,1514427487,960,1514426595,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,892
+29,1514427827,960,1514426901,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,926
+30,1514428424,960,1514427452,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,972
+31,1514428646,960,1514427713,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,933
+32,1514429202,960,1514428248,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,954
+33,1514429482,960,1514428582,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,900
+34,1514429767,960,1514428840,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,927
+35,1514430142,960,1514429246,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,896
+36,1514430495,960,1514429571,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,924
+37,1514430901,960,1514429982,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,919
+38,1514431192,960,1514430278,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,914
+39,1514431609,960,1514430689,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,920
+40,1514431851,960,1514430985,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,866
+41,1514432284,960,1514431339,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,945
+42,1514432602,960,1514431681,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,921
+43,1514432821,960,1514431941,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,880
+44,1514433182,960,1514432284,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,898
+45,1514433737,960,1514432797,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,940
+46,1514434059,960,1514433206,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,853
+47,1514434477,960,1514433537,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,940
+48,1514434708,960,1514433766,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,942
+49,1514435349,960,1514434389,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,960
+50,1514435595,960,1514434660,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,935
+51,1514436016,960,1514435118,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,898
+52,1514436319,960,1514435429,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,890
+53,1514436686,960,1514435728,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,958
+54,1514436958,960,1514436059,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,899
+55,1514437309,960,1514436407,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,902
+56,1514437538,960,1514436677,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,861
+57,1514437999,960,1514437135,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,864
+58,1514438190,960,1514437295,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,895
+59,1514438422,960,1514437557,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,865
+60,1514438899,960,1514438052,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,847
+61,1514439492,960,1514438596,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,896
+62,1514440211,960,1514439326,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,885
+63,1514457471,900,1514456566,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,905
+64,1514458044,900,1514457144,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,900
+65,1514458426,900,1514457538,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,888
+66,1514458645,900,1514457763,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,882
+67,1514459114,900,1514458187,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,927
+68,1514459735,900,1514458830,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,905
+69,1514460512,900,1514459528,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,984
+70,1514460838,900,1514459915,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,923
+71,1514461018,900,1514460093,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,925
+72,1514461250,900,1514460335,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,915
+73,1514461681,900,1514460733,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,948
+74,1514461912,900,1514461020,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,892
+75,1514462230,900,1514461353,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,877
+76,1514462922,1037,1514461902,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1020
+77,1514463663,1037,1514462173,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,threshold_id_05,,1490
+78,1514464059,1037,1514463107,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,952
+79,1514464905,1080,1514463991,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,914
+80,1514465327,1080,1514464334,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,993
+81,1514466771,1080,1514464705,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,2066
+82,1514467586,1080,1514466546,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1040
+83,1514467807,1080,1514466659,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1148
+84,1514468010,1080,1514466946,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1064
+85,1514468205,1080,1514467089,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1116
+86,1514468459,1080,1514467345,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1114
+87,1514468683,1080,1514467531,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1152
+88,1514468888,1080,1514467820,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1068
+89,1514469137,1080,1514468101,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1036
+90,1514469305,1080,1514468211,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1094
+91,1514469505,1080,1514468557,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,948
+92,1514469824,1080,1514468849,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,975
+93,1514470009,1080,1514469025,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,984
+94,1514470233,1080,1514469247,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,986
+95,1514470414,1080,1514469436,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,978
+96,1514470608,1080,1514469683,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,925
+97,1514470801,1080,1514469884,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,917
+98,1514471187,1080,1514470196,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,991
+99,1514471403,982,1514470421,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,982
+100,1514471795,982,1514470770,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1025
+101,1514472041,982,1514471077,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,964
+102,1514472467,982,1514471437,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1030
+103,1514472776,982,1514471844,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,932
+104,1514473172,982,1514472254,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,918
+105,1514473446,960,1514472541,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,905
+106,1514473850,960,1514472947,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,903
+107,1514474276,960,1514473373,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,903
+108,1514477325,960,1514474247,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,3078
+109,1514477914,960,1514475075,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,2839
+110,1514478141,960,1514476736,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,threshold_id_05,,1405
+111,1514478329,960,1514476911,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,threshold_id_05,,1418
+112,1514478495,960,1514477157,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,threshold_id_05,,1338
+113,1514478675,960,1514477460,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,,,1215
+114,1514478865,960,1514477719,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,,,1146
+115,1514479294,960,1514478069,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,,,1225
+116,1514479560,960,1514478197,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,threshold_id_05,,1363
+117,1514479961,960,1514478813,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,,,1148
+118,1514480162,960,1514479133,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1029
+119,1514480736,960,1514479713,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1023
+120,1514481039,960,1514480053,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,986
+121,1514481447,960,1514480501,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,946
+122,1514481938,960,1514480986,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,952
+123,1514482585,960,1514481609,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,976
+124,1514482916,960,1514481926,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,990
+125,1514483268,960,1514482320,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,948
+126,1514484051,960,1514482907,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,,,1144
+127,1514484894,960,1514483324,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,1570
+128,1514486044,960,1514484973,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1071
+129,1514486301,960,1514485310,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,991
+130,1514486554,960,1514485550,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1004
+131,1514486748,960,1514485661,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1087
+132,1514486992,960,1514485922,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1070
+133,1514487183,960,1514486178,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1005
+134,1514487523,960,1514486547,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,976
+135,1514487844,1020,1514486854,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,990
+136,1514488375,1020,1514487362,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1013
+137,1514488652,1020,1514487656,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,996
+138,1514489129,1020,1514488109,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1020
+139,1514489343,1020,1514488428,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,915
+140,1514490180,1020,1514489044,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1136
+141,1514490842,1020,1514489856,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,986
+142,1514492143,1020,1514490142,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,2001
+143,1514493231,1020,1514490382,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,2849
+144,1514494028,1020,1514492894,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1134
+145,1514494252,1020,1514493210,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1042
+146,1514494527,1020,1514493449,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1078
+147,1514494713,1020,1514493709,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1004
+148,1514494977,1020,1514494017,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,960
+149,1514495183,1020,1514494206,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,977
+150,1514495501,1020,1514494480,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1021
+151,1514495723,1020,1514494642,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1081
+152,1514495999,1020,1514495021,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,978
+153,1514496247,1020,1514495212,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1035
+154,1514496497,1020,1514495564,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,933
+155,1514496703,1148,1514495690,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1013
+156,1514496935,1148,1514495965,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,970
+157,1514497220,1148,1514496287,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,933
+158,1514497765,1148,1514496653,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1112
+159,1514498101,1148,1514497046,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1055
+160,1514498542,1200,1514497499,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1043
+161,1514498857,1200,1514497863,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,994
+162,1514499723,1200,1514498645,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1078
+163,1514499986,1200,1514498965,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1021
+164,1514500210,1200,1514499233,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,977
+165,1514500412,1200,1514499437,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,975
+166,1514500755,1200,1514499793,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,962
+167,1514501189,1200,1514500202,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,987
+168,1514501426,1200,1514500409,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1017
+169,1514501764,1200,1514500682,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1082
+170,1514502078,1105,1514501133,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,945
+171,1514502331,1105,1514501412,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,919
+172,1514502924,1105,1514501946,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,978
+173,1514503320,1105,1514502309,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1011
+174,1514503690,1105,1514502686,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1004
+175,1514503878,1080,1514502851,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1027
+176,1514504064,1080,1514503077,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,987
+177,1514504427,1080,1514503333,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1094
+178,1514504614,1080,1514503563,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1051
+179,1514504809,1080,1514503817,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,992
+180,1514504996,1080,1514504008,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,988
+181,1514505307,1080,1514504300,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1007
+182,1514505483,1080,1514504400,70077,Downtown Crossing - to Ashmont/Braintree,0,70065,Porter - Inbound,Red,,,,1083
+0,1514419319,900,1514418253,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,1066
+1,1514419640,900,1514418478,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,threshold_id_04,,,1162
+2,1514419838,900,1514418574,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,threshold_id_04,threshold_id_05,,1264
+3,1514420053,900,1514418973,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,1080
+4,1514420439,900,1514419327,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,threshold_id_04,,,1112
+5,1514420868,900,1514419728,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,threshold_id_04,,,1140
+6,1514421268,900,1514420387,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,881
+7,1514421564,900,1514420450,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,threshold_id_04,,,1114
+8,1514421761,900,1514420731,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,1030
+9,1514421995,900,1514421035,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,960
+10,1514422252,900,1514421338,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,914
+11,1514422423,900,1514421547,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,876
+12,1514422616,900,1514421834,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,782
+13,1514422928,820,1514422183,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,745
+14,1514423435,820,1514422660,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,775
+15,1514423700,820,1514422957,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,743
+16,1514424112,820,1514423359,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,753
+17,1514424582,820,1514423825,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,757
+18,1514424999,780,1514424241,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,758
+19,1514425249,780,1514424498,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,751
+20,1514425623,780,1514424909,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,714
+21,1514425916,780,1514425190,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,726
+22,1514426150,780,1514425425,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,725
+23,1514426725,780,1514425992,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,733
+24,1514427012,780,1514426290,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,722
+25,1514427487,780,1514426762,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,725
+26,1514427827,780,1514427063,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,764
+27,1514428424,780,1514427643,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,781
+28,1514428646,780,1514427880,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,766
+29,1514429202,780,1514428433,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,769
+30,1514429482,780,1514428748,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,734
+31,1514429767,780,1514429005,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,762
+32,1514430142,780,1514429415,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,727
+33,1514430495,780,1514429731,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,764
+34,1514430901,780,1514430148,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,753
+35,1514431192,780,1514430436,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,756
+36,1514431609,780,1514430860,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,749
+37,1514431851,780,1514431151,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,700
+38,1514432284,780,1514431507,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,777
+39,1514432602,780,1514431852,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,750
+40,1514432821,780,1514432106,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,715
+41,1514433182,780,1514432455,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,727
+42,1514433737,780,1514432976,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,761
+43,1514434059,780,1514433369,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,690
+44,1514434477,780,1514433730,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,747
+45,1514434708,780,1514433994,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,714
+46,1514435349,780,1514434560,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,789
+47,1514435595,780,1514434831,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,764
+48,1514436016,780,1514435303,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,713
+49,1514436319,780,1514435595,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,724
+50,1514436686,780,1514435920,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,766
+51,1514436958,780,1514436221,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,737
+52,1514437309,780,1514436583,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,726
+53,1514437538,780,1514436837,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,701
+54,1514437999,780,1514437294,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,705
+55,1514438190,780,1514437460,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,730
+56,1514438422,780,1514437712,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,710
+57,1514438899,780,1514438213,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,686
+58,1514439492,780,1514438759,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,733
+59,1514440211,780,1514439492,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,719
+60,1514457471,720,1514456727,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,744
+61,1514458044,720,1514457306,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,738
+62,1514458426,720,1514457698,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,728
+63,1514458645,720,1514457921,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,724
+64,1514459114,720,1514458352,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,762
+65,1514459735,720,1514458993,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,742
+66,1514460512,720,1514459692,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,820
+67,1514460838,720,1514460085,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,753
+68,1514461018,720,1514460250,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,768
+69,1514461250,720,1514460496,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,754
+70,1514461681,720,1514460897,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,784
+71,1514461912,720,1514461178,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,734
+72,1514462230,720,1514461523,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,707
+73,1514462922,857,1514462085,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,837
+74,1514463663,857,1514462352,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,threshold_id_04,threshold_id_05,,1311
+75,1514464059,857,1514463292,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,767
+76,1514464905,900,1514464159,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,746
+77,1514465327,900,1514464531,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,796
+78,1514466771,900,1514464878,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,1893
+79,1514468010,900,1514467118,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,892
+80,1514468459,900,1514467524,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,935
+81,1514468683,900,1514467794,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,889
+82,1514468888,900,1514468002,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,886
+83,1514469137,900,1514468263,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,874
+84,1514469305,900,1514468422,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,883
+85,1514469505,900,1514468725,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,780
+86,1514469824,900,1514469034,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,790
+87,1514470233,900,1514469422,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,811
+88,1514470414,900,1514469619,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,795
+89,1514470608,900,1514469878,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,730
+90,1514470801,900,1514470061,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,740
+91,1514471187,900,1514470362,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,825
+92,1514471403,802,1514470594,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,809
+93,1514471795,802,1514470951,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,844
+94,1514472041,802,1514471258,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,783
+95,1514472467,802,1514471612,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,855
+96,1514472776,802,1514472019,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,757
+97,1514473172,802,1514472416,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,756
+98,1514473446,780,1514472716,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,730
+99,1514473850,780,1514473121,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,729
+100,1514474276,780,1514473543,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,733
+101,1514477325,780,1514474430,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,2895
+102,1514477914,780,1514476721,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,threshold_id_04,threshold_id_05,,1193
+103,1514478141,780,1514476935,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,threshold_id_04,threshold_id_05,,1206
+104,1514478495,780,1514477342,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,threshold_id_04,threshold_id_05,,1153
+105,1514478675,780,1514477647,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,threshold_id_04,,,1028
+106,1514478865,780,1514477889,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,threshold_id_04,,,976
+107,1514479294,780,1514478533,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,761
+108,1514480162,780,1514479318,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,844
+109,1514480736,780,1514479893,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,843
+110,1514481039,780,1514480221,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,818
+111,1514481447,780,1514480664,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,783
+112,1514481938,780,1514481205,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,733
+113,1514482585,780,1514481829,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,756
+114,1514482916,780,1514482136,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,780
+115,1514483268,780,1514482524,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,744
+116,1514484051,780,1514483146,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,905
+117,1514484894,780,1514483514,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,threshold_id_04,threshold_id_05,,1380
+118,1514486044,780,1514485223,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,821
+119,1514486301,780,1514485504,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,797
+120,1514486554,780,1514485748,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,806
+121,1514486992,780,1514486100,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,892
+122,1514487183,780,1514486341,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,842
+123,1514487523,780,1514486745,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,778
+124,1514487844,840,1514487024,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,820
+125,1514488375,840,1514487533,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,842
+126,1514488652,840,1514487829,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,823
+127,1514489129,840,1514488296,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,833
+128,1514489343,840,1514488596,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,747
+129,1514490180,840,1514489225,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,955
+130,1514490842,840,1514490050,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,792
+131,1514492143,840,1514490598,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,1545
+132,1514494028,840,1514493101,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,927
+133,1514494252,840,1514493393,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,859
+134,1514494527,840,1514493664,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,863
+135,1514494713,840,1514493874,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,839
+136,1514494977,840,1514494180,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,797
+137,1514495183,840,1514494357,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,826
+138,1514495501,840,1514494643,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,858
+139,1514495723,840,1514494749,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,974
+140,1514495999,840,1514495203,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,796
+141,1514496247,840,1514495424,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,823
+142,1514496497,840,1514495740,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,757
+143,1514496935,968,1514496153,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,782
+144,1514497220,968,1514496466,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,754
+145,1514497765,968,1514496904,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,861
+146,1514498101,968,1514497224,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,877
+147,1514498542,1020,1514497694,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,848
+148,1514498857,1020,1514498049,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,808
+149,1514499723,1020,1514498830,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,893
+150,1514499986,1020,1514499141,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,845
+151,1514500210,1020,1514499419,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,791
+152,1514500412,1020,1514499612,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,800
+153,1514500755,1020,1514499966,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,789
+154,1514501189,1020,1514500393,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,796
+155,1514501426,1020,1514500581,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,845
+156,1514501764,1020,1514500957,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,807
+157,1514502078,925,1514501300,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,778
+158,1514502331,925,1514501583,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,748
+159,1514502924,925,1514502128,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,796
+160,1514503320,925,1514502482,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,838
+161,1514503690,925,1514502866,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,824
+162,1514504064,900,1514503244,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,820
+163,1514504427,900,1514503520,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,907
+164,1514504614,900,1514503716,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,898
+165,1514504809,900,1514503984,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,825
+166,1514504996,900,1514504251,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,745
+167,1514505307,900,1514504467,70077,Downtown Crossing - to Ashmont/Braintree,0,70067,Harvard - Inbound,Red,,,,840
+0,1514419319,660,1514418487,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,832
+1,1514419640,660,1514418703,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,threshold_id_04,,,937
+2,1514419838,660,1514418885,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,threshold_id_04,,,953
+3,1514420053,660,1514419194,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,threshold_id_04,,,859
+4,1514420245,660,1514419369,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,threshold_id_04,,,876
+5,1514420439,660,1514419548,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,threshold_id_04,,,891
+6,1514420642,660,1514419694,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,threshold_id_04,,,948
+7,1514420868,660,1514419943,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,threshold_id_04,,,925
+8,1514421092,660,1514420265,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,827
+9,1514421268,660,1514420591,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,677
+10,1514421564,660,1514420745,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,819
+11,1514421761,660,1514420951,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,810
+12,1514421995,660,1514421274,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,721
+13,1514422252,660,1514421554,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,698
+14,1514422423,660,1514421765,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,658
+15,1514422616,660,1514422056,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,560
+16,1514422928,610,1514422394,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,534
+17,1514423435,610,1514422880,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,555
+18,1514423700,610,1514423174,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,526
+19,1514424112,610,1514423581,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,531
+20,1514424582,610,1514424061,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,521
+21,1514424999,600,1514424461,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,538
+22,1514425249,600,1514424734,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,515
+23,1514425623,600,1514425120,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,503
+24,1514425916,600,1514425406,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,510
+25,1514426150,600,1514425648,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,502
+26,1514426725,600,1514426204,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,521
+27,1514427012,600,1514426497,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,515
+28,1514427487,600,1514426974,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,513
+29,1514427827,600,1514427285,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,542
+30,1514428424,600,1514427870,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,554
+31,1514428646,600,1514428099,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,547
+32,1514429202,600,1514428675,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,527
+33,1514429482,600,1514428958,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,524
+34,1514429767,600,1514429223,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,544
+35,1514430142,600,1514429627,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,515
+36,1514430495,600,1514429951,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,544
+37,1514430901,600,1514430372,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,529
+38,1514431192,600,1514430644,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,548
+39,1514431609,600,1514431081,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,528
+40,1514431851,600,1514431369,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,482
+41,1514432284,600,1514431716,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,568
+42,1514432602,600,1514432080,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,522
+43,1514432821,600,1514432315,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,506
+44,1514433182,600,1514432665,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,517
+45,1514433737,600,1514433197,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,540
+46,1514434059,600,1514433572,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,487
+47,1514434477,600,1514433949,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,528
+48,1514434708,600,1514434203,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,505
+49,1514435349,600,1514434787,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,562
+50,1514435595,600,1514435050,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,545
+51,1514436016,600,1514435509,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,507
+52,1514436319,600,1514435813,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,506
+53,1514436686,600,1514436149,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,537
+54,1514436958,600,1514436444,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,514
+55,1514437309,600,1514436803,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,506
+56,1514437538,600,1514437042,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,496
+57,1514437999,600,1514437502,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,497
+58,1514438190,600,1514437671,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,519
+59,1514438422,600,1514437920,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,502
+60,1514438899,600,1514438420,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,479
+61,1514439492,600,1514438972,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,520
+62,1514440211,600,1514439713,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,498
+63,1514457471,540,1514456946,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,525
+64,1514458044,540,1514457513,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,531
+65,1514458426,540,1514457905,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,521
+66,1514458645,540,1514458124,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,521
+67,1514459114,540,1514458569,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,545
+68,1514459735,540,1514459203,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,532
+69,1514460512,540,1514459981,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,531
+70,1514460838,540,1514460309,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,529
+71,1514461018,540,1514460450,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,568
+72,1514461250,540,1514460725,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,525
+73,1514461681,540,1514461135,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,546
+74,1514461912,540,1514461385,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,527
+75,1514462230,540,1514461737,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,493
+76,1514462922,642,1514462355,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,567
+77,1514463663,642,1514462608,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,threshold_id_04,threshold_id_05,,1055
+78,1514464059,642,1514463515,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,544
+79,1514464609,660,1514464079,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,530
+80,1514464905,660,1514464382,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,523
+81,1514465327,660,1514464747,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,580
+82,1514466771,660,1514466019,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,752
+83,1514467096,660,1514466540,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,556
+84,1514467586,660,1514466988,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,598
+85,1514467807,660,1514467154,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,653
+86,1514468010,660,1514467355,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,655
+87,1514468205,660,1514467529,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,676
+88,1514468459,660,1514467764,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,695
+89,1514468683,660,1514468024,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,659
+90,1514468888,660,1514468234,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,654
+91,1514469137,660,1514468478,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,659
+92,1514469305,660,1514468637,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,668
+93,1514469505,660,1514468952,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,553
+94,1514469824,660,1514469257,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,567
+95,1514470009,660,1514469471,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,538
+96,1514470233,660,1514469636,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,597
+97,1514470414,660,1514469886,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,528
+98,1514470608,660,1514470081,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,527
+99,1514470801,660,1514470280,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,521
+100,1514471187,660,1514470625,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,562
+101,1514471403,562,1514470820,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,583
+102,1514471795,562,1514471195,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,600
+103,1514472041,562,1514471477,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,564
+104,1514472467,562,1514471849,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,618
+105,1514472776,562,1514472247,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,529
+106,1514473172,562,1514472630,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,542
+107,1514473446,540,1514472935,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,511
+108,1514473850,540,1514473332,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,518
+109,1514474276,540,1514473750,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,526
+110,1514477325,540,1514474661,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,2664
+111,1514477914,540,1514477314,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,600
+112,1514478141,540,1514477411,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,threshold_id_04,,,730
+113,1514478329,540,1514477603,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,threshold_id_04,,,726
+114,1514478495,540,1514477715,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,threshold_id_04,,,780
+115,1514478675,540,1514477878,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,threshold_id_04,,,797
+116,1514478865,540,1514478097,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,threshold_id_04,,,768
+117,1514479294,540,1514478769,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,525
+118,1514479560,540,1514478990,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,570
+119,1514479961,540,1514479273,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,688
+120,1514480162,540,1514479589,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,573
+121,1514480736,540,1514480169,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,567
+122,1514481039,540,1514480497,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,542
+123,1514481447,540,1514480874,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,573
+124,1514481938,540,1514481418,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,520
+125,1514482585,540,1514482060,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,525
+126,1514482916,540,1514482374,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,542
+127,1514483268,540,1514482739,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,529
+128,1514484051,540,1514483412,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,639
+129,1514484894,540,1514483753,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,1141
+130,1514486044,540,1514485468,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,576
+131,1514486301,540,1514485722,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,579
+132,1514486554,540,1514485987,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,567
+133,1514486748,540,1514486133,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,615
+134,1514486992,540,1514486321,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,671
+135,1514487183,540,1514486569,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,614
+136,1514487523,540,1514486971,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,552
+137,1514487844,600,1514487239,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,605
+138,1514488375,600,1514487754,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,621
+139,1514488652,600,1514488063,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,589
+140,1514489129,600,1514488522,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,607
+141,1514489343,600,1514488808,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,535
+142,1514490180,600,1514489463,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,717
+143,1514490842,600,1514490277,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,565
+144,1514492143,600,1514490829,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,threshold_id_04,threshold_id_05,threshold_id_06,1314
+145,1514493231,600,1514492459,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,772
+146,1514494028,600,1514493343,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,685
+147,1514494252,600,1514493609,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,643
+148,1514494527,600,1514493878,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,649
+149,1514494713,600,1514494083,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,630
+150,1514494977,600,1514494413,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,564
+151,1514495183,600,1514494575,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,608
+152,1514495501,600,1514494897,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,604
+153,1514495723,600,1514495073,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,650
+154,1514495999,600,1514495430,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,569
+155,1514496247,600,1514495639,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,608
+156,1514496497,600,1514495955,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,542
+157,1514496703,728,1514496093,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,610
+158,1514496935,728,1514496371,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,564
+159,1514497220,728,1514496687,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,533
+160,1514497765,728,1514497169,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,596
+161,1514498101,728,1514497490,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,611
+162,1514498542,780,1514497930,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,612
+163,1514498857,780,1514498284,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,573
+164,1514499723,780,1514499063,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,660
+165,1514499986,780,1514499362,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,624
+166,1514500210,780,1514499622,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,588
+167,1514500412,780,1514499832,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,580
+168,1514500755,780,1514500218,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,537
+169,1514501189,780,1514500623,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,566
+170,1514501426,780,1514500797,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,629
+171,1514501764,780,1514501191,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,573
+172,1514502078,685,1514501515,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,563
+173,1514502331,685,1514501799,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,532
+174,1514502924,685,1514502361,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,563
+175,1514503320,685,1514502717,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,603
+176,1514503690,685,1514503113,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,577
+177,1514503878,660,1514503303,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,575
+178,1514504064,660,1514503464,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,600
+179,1514504427,660,1514503856,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,571
+180,1514504614,660,1514503977,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,637
+181,1514504809,660,1514504200,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,609
+182,1514504996,660,1514504485,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,511
+183,1514505307,660,1514504699,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,608
+184,1514505483,660,1514504848,70077,Downtown Crossing - to Ashmont/Braintree,0,70069,Central - Inbound,Red,,,,635
+0,1514419319,480,1514418763,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,556
+1,1514419640,480,1514418940,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,threshold_id_04,,,700
+2,1514419838,480,1514419332,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,506
+3,1514420053,480,1514419510,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,543
+4,1514420245,480,1514419663,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,582
+5,1514420439,480,1514419869,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,570
+6,1514420642,480,1514420081,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,561
+7,1514420868,480,1514420304,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,564
+8,1514421092,480,1514420520,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,572
+9,1514421268,480,1514420911,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,357
+10,1514421564,480,1514421074,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,490
+11,1514421761,480,1514421400,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,361
+12,1514421995,480,1514421537,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,458
+13,1514422252,480,1514421717,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,535
+14,1514422423,480,1514421922,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,501
+15,1514422616,480,1514422202,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,414
+16,1514422928,430,1514422541,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,387
+17,1514423435,430,1514423034,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,401
+18,1514423700,430,1514423323,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,377
+19,1514424112,430,1514423735,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,377
+20,1514424582,430,1514424209,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,373
+21,1514424999,420,1514424621,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,378
+22,1514425249,420,1514424887,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,362
+23,1514425623,420,1514425267,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,356
+24,1514425916,420,1514425556,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,360
+25,1514426150,420,1514425796,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,354
+26,1514426725,420,1514426345,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,380
+27,1514427012,420,1514426641,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,371
+28,1514427487,420,1514427118,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,369
+29,1514427827,420,1514427450,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,377
+30,1514428424,420,1514428027,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,397
+31,1514428646,420,1514428253,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,393
+32,1514429202,420,1514428826,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,376
+33,1514429482,420,1514429106,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,376
+34,1514429767,420,1514429374,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,393
+35,1514430142,420,1514429784,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,358
+36,1514430495,420,1514430101,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,394
+37,1514430901,420,1514430524,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,377
+38,1514431192,420,1514430788,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,404
+39,1514431609,420,1514431233,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,376
+40,1514431851,420,1514431511,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,340
+41,1514432284,420,1514431861,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,423
+42,1514432602,420,1514432236,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,366
+43,1514432821,420,1514432459,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,362
+44,1514433182,420,1514432814,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,368
+45,1514433737,420,1514433347,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,390
+46,1514434059,420,1514433713,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,346
+47,1514434477,420,1514434101,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,376
+48,1514434708,420,1514434347,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,361
+49,1514435349,420,1514434942,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,407
+50,1514435595,420,1514435206,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,389
+51,1514436016,420,1514435656,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,360
+52,1514436319,420,1514435958,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,361
+53,1514436686,420,1514436300,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,386
+54,1514436958,420,1514436591,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,367
+55,1514437309,420,1514436951,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,358
+56,1514437538,420,1514437182,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,356
+57,1514437999,420,1514437648,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,351
+58,1514438190,420,1514437812,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,378
+59,1514438422,420,1514438061,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,361
+60,1514438899,420,1514438563,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,336
+61,1514439492,420,1514439121,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,371
+62,1514440211,420,1514439861,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,350
+63,1514457471,360,1514457098,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,373
+64,1514458044,360,1514457661,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,383
+65,1514458426,360,1514458061,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,365
+66,1514458645,360,1514458266,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,379
+67,1514459114,360,1514458723,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,391
+68,1514459735,360,1514459354,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,381
+69,1514460512,360,1514460127,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,385
+70,1514460838,360,1514460463,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,375
+71,1514461018,360,1514460595,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,423
+72,1514461250,360,1514460877,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,373
+73,1514461681,360,1514461295,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,386
+74,1514461912,360,1514461533,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,379
+75,1514462230,360,1514461878,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,352
+76,1514462922,462,1514462504,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,418
+77,1514463663,462,1514463097,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,566
+78,1514464059,462,1514463670,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,389
+79,1514464609,480,1514464231,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,378
+80,1514464905,480,1514464536,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,369
+81,1514465327,480,1514464916,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,411
+82,1514466771,480,1514466175,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,596
+83,1514467096,480,1514466711,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,385
+84,1514467586,480,1514467156,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,430
+85,1514467807,480,1514467313,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,494
+86,1514468010,480,1514467518,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,492
+87,1514468205,480,1514467697,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,508
+88,1514468459,480,1514467937,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,522
+89,1514468683,480,1514468220,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,463
+90,1514468888,480,1514468405,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,483
+91,1514469137,480,1514468623,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,514
+92,1514469305,480,1514468811,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,494
+93,1514469505,480,1514469110,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,395
+94,1514469824,480,1514469412,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,412
+95,1514470009,480,1514469636,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,373
+96,1514470233,480,1514469784,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,449
+97,1514470414,480,1514470040,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,374
+98,1514470608,480,1514470231,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,377
+99,1514470801,480,1514470435,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,366
+100,1514471187,480,1514470773,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,414
+101,1514471403,427,1514471003,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,400
+102,1514471795,427,1514471387,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,408
+103,1514472041,427,1514471648,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,393
+104,1514472467,427,1514472028,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,439
+105,1514472776,427,1514472403,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,373
+106,1514473172,427,1514472778,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,394
+107,1514473446,420,1514473087,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,359
+108,1514473850,420,1514473481,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,369
+109,1514474276,420,1514473897,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,379
+110,1514477325,420,1514476826,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,499
+111,1514477914,420,1514477474,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,440
+112,1514478141,420,1514477606,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,535
+113,1514478329,420,1514477763,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,566
+114,1514478495,420,1514477905,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,590
+115,1514478675,420,1514478140,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,535
+116,1514478865,420,1514478362,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,503
+117,1514479294,420,1514478918,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,376
+118,1514479560,420,1514479151,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,409
+119,1514479961,420,1514479449,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,512
+120,1514480162,420,1514479765,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,397
+121,1514480736,420,1514480340,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,396
+122,1514481039,420,1514480664,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,375
+123,1514481447,420,1514481019,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,428
+124,1514481938,420,1514481574,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,364
+125,1514482585,420,1514482221,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,364
+126,1514482916,420,1514482548,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,368
+127,1514483268,420,1514482894,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,374
+128,1514484051,420,1514483610,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,441
+129,1514484894,420,1514484104,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,threshold_id_04,threshold_id_05,,790
+130,1514486044,420,1514485639,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,405
+131,1514486301,420,1514485881,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,420
+132,1514486554,420,1514486169,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,385
+133,1514486748,420,1514486300,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,448
+134,1514486992,420,1514486484,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,508
+135,1514487183,420,1514486725,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,458
+136,1514487523,420,1514487119,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,404
+137,1514487844,480,1514487392,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,452
+138,1514488375,480,1514487922,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,453
+139,1514488652,480,1514488227,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,425
+140,1514489129,480,1514488693,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,436
+141,1514489343,480,1514488959,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,384
+142,1514490180,480,1514489765,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,415
+143,1514490842,480,1514490440,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,402
+144,1514492143,480,1514491089,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,threshold_id_04,threshold_id_05,,1054
+145,1514493231,480,1514492685,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,546
+146,1514494028,480,1514493518,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,510
+147,1514494252,480,1514493780,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,472
+148,1514494527,480,1514494047,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,480
+149,1514494713,480,1514494232,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,481
+150,1514494977,480,1514494576,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,401
+151,1514495183,480,1514494728,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,455
+152,1514495501,480,1514495067,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,434
+153,1514495723,480,1514495236,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,487
+154,1514495999,480,1514495593,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,406
+155,1514496247,480,1514495820,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,427
+156,1514496497,480,1514496113,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,384
+157,1514496703,522,1514496259,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,444
+158,1514496935,522,1514496532,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,403
+159,1514497220,522,1514496837,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,383
+160,1514497765,522,1514497334,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,431
+161,1514498101,522,1514497671,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,430
+162,1514498542,540,1514498101,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,441
+163,1514498857,540,1514498446,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,411
+164,1514499723,540,1514499264,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,459
+165,1514499986,540,1514499519,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,467
+166,1514500210,540,1514499775,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,435
+167,1514500412,540,1514499983,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,429
+168,1514500755,540,1514500371,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,384
+169,1514501189,540,1514500782,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,407
+170,1514501426,540,1514500952,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,474
+171,1514501764,540,1514501354,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,410
+172,1514502078,488,1514501675,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,403
+173,1514502331,488,1514501955,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,376
+174,1514502924,488,1514502520,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,404
+175,1514503320,488,1514502895,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,425
+176,1514503690,488,1514503277,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,413
+177,1514503878,480,1514503474,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,404
+178,1514504064,480,1514503614,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,450
+179,1514504427,480,1514504008,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,419
+180,1514504614,480,1514504171,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,443
+181,1514504809,480,1514504350,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,459
+182,1514504996,480,1514504634,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,362
+183,1514505307,480,1514504870,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,437
+184,1514505483,480,1514504996,70077,Downtown Crossing - to Ashmont/Braintree,0,70071,Kendall/MIT - Inbound,Red,,,,487
+0,1514419319,300,1514419178,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,141
+1,1514419640,300,1514419465,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,175
+2,1514419838,300,1514419662,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,176
+3,1514420053,300,1514419891,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,162
+4,1514420245,300,1514420082,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,163
+5,1514420439,300,1514420297,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,142
+6,1514420642,300,1514420507,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,135
+7,1514420868,300,1514420737,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,131
+8,1514421092,300,1514420947,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,145
+9,1514421268,300,1514421130,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,138
+10,1514421564,300,1514421326,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,238
+11,1514421761,300,1514421624,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,137
+12,1514421995,300,1514421841,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,154
+13,1514422252,300,1514422099,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,153
+14,1514422423,300,1514422291,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,132
+15,1514422616,300,1514422488,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,128
+16,1514422928,300,1514422764,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,164
+17,1514423435,300,1514423286,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,149
+18,1514423700,300,1514423564,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,136
+19,1514424112,300,1514423969,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,143
+20,1514424582,300,1514424440,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,142
+21,1514424999,300,1514424867,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,132
+22,1514425249,300,1514425117,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,132
+23,1514425623,300,1514425495,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,128
+24,1514425916,300,1514425776,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,140
+25,1514426150,300,1514426015,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,135
+26,1514426725,300,1514426589,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,136
+27,1514427012,300,1514426881,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,131
+28,1514427487,300,1514427362,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,125
+29,1514427827,300,1514427690,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,137
+30,1514428424,300,1514428267,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,157
+31,1514428646,300,1514428496,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,150
+32,1514429202,300,1514429051,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,151
+33,1514429482,300,1514429351,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,131
+34,1514429767,300,1514429620,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,147
+35,1514430142,300,1514430010,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,132
+36,1514430495,300,1514430335,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,160
+37,1514430901,300,1514430767,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,134
+38,1514431192,300,1514431044,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,148
+39,1514431609,300,1514431461,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,148
+40,1514431851,300,1514431727,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,124
+41,1514432284,300,1514432144,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,140
+42,1514432602,300,1514432461,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,141
+43,1514432821,300,1514432691,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,130
+44,1514433182,300,1514433040,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,142
+45,1514433737,300,1514433597,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,140
+46,1514434059,300,1514433934,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,125
+47,1514434477,300,1514434339,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,138
+48,1514434708,300,1514434586,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,122
+49,1514435349,300,1514435207,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,142
+50,1514435595,300,1514435455,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,140
+51,1514436016,300,1514435882,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,134
+52,1514436319,300,1514436184,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,135
+53,1514436686,300,1514436542,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,144
+54,1514436958,300,1514436829,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,129
+55,1514437309,300,1514437177,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,132
+56,1514437538,300,1514437401,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,137
+57,1514437999,300,1514437872,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,127
+58,1514438190,300,1514438064,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,126
+59,1514438422,300,1514438295,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,127
+60,1514438899,300,1514438775,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,124
+61,1514439492,300,1514439360,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,132
+62,1514440211,300,1514440085,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,126
+63,1514457471,240,1514457348,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,123
+64,1514458044,240,1514457905,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,139
+65,1514458426,240,1514458300,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,126
+66,1514458645,240,1514458507,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,138
+67,1514459114,240,1514458977,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,137
+68,1514459735,240,1514459602,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,133
+69,1514460512,240,1514460345,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,167
+70,1514460838,240,1514460697,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,141
+71,1514461018,240,1514460887,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,131
+72,1514461250,240,1514461120,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,130
+73,1514461681,240,1514461542,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,139
+74,1514461912,240,1514461787,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,125
+75,1514462230,240,1514462095,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,135
+76,1514462922,291,1514462741,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,181
+77,1514463663,291,1514463386,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,277
+78,1514464059,291,1514463917,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,142
+79,1514464609,300,1514464463,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,146
+80,1514464905,300,1514464768,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,137
+81,1514465327,300,1514465175,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,152
+82,1514466771,300,1514466536,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,235
+83,1514467096,300,1514466954,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,142
+84,1514467586,300,1514467441,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,145
+85,1514467807,300,1514467639,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,168
+86,1514468010,300,1514467854,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,156
+87,1514468205,300,1514468059,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,146
+88,1514468459,300,1514468302,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,157
+89,1514468683,300,1514468522,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,161
+90,1514468888,300,1514468710,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,178
+91,1514469137,300,1514468959,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,178
+92,1514469305,300,1514469185,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,120
+93,1514469505,300,1514469362,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,143
+94,1514469824,300,1514469671,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,153
+95,1514470009,300,1514469864,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,145
+96,1514470233,300,1514470086,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,147
+97,1514470414,300,1514470270,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,144
+98,1514470608,300,1514470473,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,135
+99,1514470801,300,1514470670,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,131
+100,1514471187,300,1514470994,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,193
+101,1514471403,247,1514471246,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,157
+102,1514471795,247,1514471651,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,144
+103,1514472041,247,1514471893,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,148
+104,1514472467,247,1514472324,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,143
+105,1514472776,247,1514472633,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,143
+106,1514473172,247,1514473029,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,143
+107,1514473446,240,1514473308,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,138
+108,1514473850,240,1514473717,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,133
+109,1514474276,240,1514474143,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,133
+110,1514477325,240,1514477168,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,157
+111,1514477914,240,1514477721,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,193
+112,1514478141,240,1514477930,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,211
+113,1514478329,240,1514478139,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,190
+114,1514478495,240,1514478344,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,151
+115,1514478675,240,1514478535,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,140
+116,1514478865,240,1514478732,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,133
+117,1514479294,240,1514479143,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,151
+118,1514479560,240,1514479414,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,146
+119,1514479961,240,1514479810,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,151
+120,1514480162,240,1514480002,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,160
+121,1514480736,240,1514480585,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,151
+122,1514481039,240,1514480893,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,146
+123,1514481447,240,1514481311,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,136
+124,1514481938,240,1514481803,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,135
+125,1514482585,240,1514482450,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,135
+126,1514482916,240,1514482772,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,144
+127,1514483268,240,1514483139,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,129
+128,1514484051,240,1514483849,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,202
+129,1514484894,240,1514484686,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,208
+130,1514486044,240,1514485868,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,176
+131,1514486301,240,1514486136,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,165
+132,1514486554,240,1514486400,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,154
+133,1514486748,240,1514486605,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,143
+134,1514486992,240,1514486813,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,179
+135,1514487183,240,1514487009,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,174
+136,1514487523,240,1514487367,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,156
+137,1514487844,300,1514487643,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,201
+138,1514488375,300,1514488177,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,198
+139,1514488652,300,1514488460,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,192
+140,1514489129,300,1514488936,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,193
+141,1514489343,300,1514489191,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,152
+142,1514490180,300,1514490032,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,148
+143,1514490842,300,1514490682,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,160
+144,1514492143,300,1514491342,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,threshold_id_04,threshold_id_05,,801
+145,1514493231,300,1514493012,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,219
+146,1514494028,300,1514493802,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,226
+147,1514494252,300,1514494005,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,247
+148,1514494527,300,1514494376,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,151
+149,1514494713,300,1514494572,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,141
+150,1514494977,300,1514494814,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,163
+151,1514495183,300,1514495030,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,153
+152,1514495501,300,1514495348,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,153
+153,1514495723,300,1514495565,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,158
+154,1514495999,300,1514495844,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,155
+155,1514496247,300,1514496067,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,180
+156,1514496497,300,1514496357,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,140
+157,1514496703,300,1514496571,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,132
+158,1514496935,300,1514496799,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,136
+159,1514497220,300,1514497072,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,148
+160,1514497765,300,1514497590,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,175
+161,1514498101,300,1514497924,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,177
+162,1514498542,300,1514498361,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,181
+163,1514498857,300,1514498686,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,171
+164,1514499723,300,1514499528,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,195
+165,1514499986,300,1514499795,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,191
+166,1514500210,300,1514500008,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,202
+167,1514500412,300,1514500228,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,184
+168,1514500755,300,1514500605,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,150
+169,1514501189,300,1514501031,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,158
+170,1514501426,300,1514501231,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,195
+171,1514501764,300,1514501596,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,168
+172,1514502078,300,1514501928,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,150
+173,1514502331,300,1514502183,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,148
+174,1514502924,300,1514502772,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,152
+175,1514503320,300,1514503148,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,172
+176,1514503690,300,1514503511,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,179
+177,1514503878,300,1514503697,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,181
+178,1514504064,300,1514503910,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,154
+179,1514504427,300,1514504234,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,193
+180,1514504614,300,1514504449,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,165
+181,1514504809,300,1514504657,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,152
+182,1514504996,300,1514504857,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,139
+183,1514505307,300,1514505148,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,159
+184,1514505483,300,1514505331,70077,Downtown Crossing - to Ashmont/Braintree,0,70073,Charles/MGH - Inbound,Red,,,,152
+0,1514419319,120,1514419301,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+1,1514419640,120,1514419616,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,24
+2,1514419838,120,1514419821,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+3,1514420245,120,1514420228,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+4,1514420439,120,1514420419,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,20
+5,1514420642,120,1514420625,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+6,1514420868,120,1514420846,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,22
+7,1514421092,120,1514421073,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+8,1514421268,120,1514421250,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+9,1514421564,120,1514421535,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,29
+10,1514421761,120,1514421742,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+11,1514421995,120,1514421977,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+12,1514422252,120,1514422231,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,21
+13,1514422423,120,1514422405,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+14,1514422616,120,1514422598,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+15,1514422928,120,1514422910,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+16,1514423435,120,1514423417,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+17,1514423700,120,1514423682,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+18,1514424112,120,1514424094,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+19,1514424582,120,1514424562,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,20
+20,1514424999,120,1514424981,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+21,1514425249,120,1514425231,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+22,1514425623,120,1514425605,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+23,1514425916,120,1514425896,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,20
+24,1514426150,120,1514426133,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+25,1514426725,120,1514426708,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+26,1514427012,120,1514426994,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+27,1514427487,120,1514427469,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+28,1514427827,120,1514427809,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+29,1514428424,120,1514428406,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+30,1514428646,120,1514428628,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+31,1514429202,120,1514429178,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,24
+32,1514429482,120,1514429463,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+33,1514429767,120,1514429748,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+34,1514430142,120,1514430123,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+35,1514430495,120,1514430477,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+36,1514430901,120,1514430883,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+37,1514431192,120,1514431174,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+38,1514431609,120,1514431591,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+39,1514431851,120,1514431833,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+40,1514432284,120,1514432267,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+41,1514432602,120,1514432583,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+42,1514432821,120,1514432803,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+43,1514433182,120,1514433160,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,22
+44,1514433737,120,1514433720,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+45,1514434059,120,1514434041,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+46,1514434477,120,1514434459,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+47,1514434708,120,1514434689,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+48,1514435349,120,1514435331,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+49,1514435595,120,1514435577,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+50,1514436016,120,1514435998,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+51,1514436319,120,1514436301,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+52,1514436686,120,1514436667,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+53,1514436958,120,1514436940,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+54,1514437309,120,1514437291,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+55,1514437538,120,1514437520,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+56,1514437999,120,1514437982,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+57,1514438190,120,1514438172,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+58,1514438422,120,1514438404,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+59,1514438899,120,1514438881,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+60,1514439492,120,1514439474,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+61,1514440211,120,1514440193,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+62,1514457471,120,1514457452,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+63,1514458044,120,1514458026,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+64,1514458426,120,1514458408,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+65,1514458645,120,1514458625,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,20
+66,1514459114,120,1514459095,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+67,1514459735,120,1514459717,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+68,1514460512,120,1514460489,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,23
+69,1514460838,120,1514460819,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+70,1514461018,120,1514460990,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,28
+71,1514461250,120,1514461231,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+72,1514461681,120,1514461663,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+73,1514461912,120,1514461894,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+74,1514462230,120,1514462212,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+75,1514462922,120,1514462905,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+76,1514463663,120,1514463644,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+77,1514464059,120,1514464041,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+78,1514464609,120,1514464592,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+79,1514464905,120,1514464888,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+80,1514465327,120,1514465307,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,20
+81,1514466771,120,1514466753,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+82,1514467096,120,1514467078,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+83,1514467586,120,1514467567,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+84,1514467807,120,1514467788,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+85,1514468010,120,1514467992,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+86,1514468205,120,1514468187,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+87,1514468459,120,1514468439,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,20
+88,1514468683,120,1514468660,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,23
+89,1514468888,120,1514468870,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+90,1514469137,120,1514469119,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+91,1514469305,120,1514469287,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+92,1514469505,120,1514469484,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,21
+93,1514469824,120,1514469805,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+94,1514470009,120,1514469990,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+95,1514470233,120,1514470215,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+96,1514470414,120,1514470397,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+97,1514470608,120,1514470590,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+98,1514470801,120,1514470784,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+99,1514471187,120,1514471169,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+100,1514471403,120,1514471382,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,21
+101,1514471795,120,1514471777,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+102,1514472041,120,1514472020,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,21
+103,1514472467,120,1514472449,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+104,1514472776,120,1514472758,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+105,1514473172,120,1514473154,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+106,1514473446,120,1514473429,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+107,1514473850,120,1514473832,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+108,1514474276,120,1514474259,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+109,1514476620,120,1514476603,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+110,1514477325,120,1514477307,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+111,1514477914,120,1514477884,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,30
+112,1514478141,120,1514478123,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+113,1514478329,120,1514478312,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+114,1514478495,120,1514478477,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+115,1514478675,120,1514478657,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+116,1514478865,120,1514478844,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,21
+117,1514479294,120,1514479275,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+118,1514479560,120,1514479541,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+119,1514479961,120,1514479943,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+120,1514480162,120,1514480144,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+121,1514480736,120,1514480718,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+122,1514481039,120,1514481021,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+123,1514481447,120,1514481426,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,21
+124,1514481938,120,1514481920,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+125,1514482585,120,1514482567,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+126,1514482916,120,1514482898,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+127,1514483268,120,1514483250,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+128,1514484051,120,1514484033,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+129,1514484894,120,1514484876,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+130,1514486301,120,1514486283,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+131,1514486554,120,1514486534,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,20
+132,1514486748,120,1514486730,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+133,1514486992,120,1514486972,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,20
+134,1514487183,120,1514487163,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,20
+135,1514487523,120,1514487505,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+136,1514487844,120,1514487826,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+137,1514488375,120,1514488356,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+138,1514488652,120,1514488634,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+139,1514489129,120,1514489111,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+140,1514489343,120,1514489325,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+141,1514490180,120,1514490162,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+142,1514490842,120,1514490825,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+143,1514492143,120,1514492124,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+144,1514493231,120,1514493212,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+145,1514494028,120,1514494006,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,22
+146,1514494252,120,1514494203,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,49
+147,1514494527,120,1514494509,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+148,1514494713,120,1514494695,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+149,1514494977,120,1514494957,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,20
+150,1514495183,120,1514495164,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+151,1514495501,120,1514495483,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+152,1514495723,120,1514495703,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,20
+153,1514495999,120,1514495981,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+154,1514496247,120,1514496224,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,23
+155,1514496497,120,1514496479,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+156,1514496703,120,1514496685,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+157,1514496935,120,1514496917,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+158,1514497220,120,1514497202,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+159,1514498101,120,1514498079,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,22
+160,1514498542,120,1514498524,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+161,1514498857,120,1514498837,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,20
+162,1514499723,120,1514499703,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,20
+163,1514499986,120,1514499950,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,36
+164,1514500210,120,1514500186,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,24
+165,1514500412,120,1514500394,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+166,1514500755,120,1514500737,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+167,1514501189,120,1514501170,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+168,1514501426,120,1514501404,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,22
+169,1514501764,120,1514501745,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+170,1514502078,120,1514502059,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+171,1514502331,120,1514502311,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,20
+172,1514502924,120,1514502906,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+173,1514503320,120,1514503302,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+174,1514503690,120,1514503671,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+175,1514503878,120,1514503855,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,23
+176,1514504064,120,1514504046,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,18
+177,1514504427,120,1514504410,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+178,1514504614,120,1514504594,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,20
+179,1514504809,120,1514504790,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+180,1514504996,120,1514504979,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,17
+181,1514505307,120,1514505288,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,19
+182,1514505483,120,1514505461,70077,Downtown Crossing - to Ashmont/Braintree,0,70075,Park Street - to Ashmont/Braintree,Red,,,,22
