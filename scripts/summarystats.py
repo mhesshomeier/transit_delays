@@ -188,15 +188,47 @@ avg_withdemog = pd.merge(avg_withkey, df_demog, how='inner', left_on="match_name
 
 avg_withdemog.head()
 avg_withdemog.shape
+# create new column with the % of benchmark travel time
+avg_withdemog['percent_over_benchmark'] = avg_withdemog.travel_time_sec / avg_withdemog.benchmark_travel_time_sec
+
+avg_withdemog.head()
+
 # export the full file to csv!
-avg_withdemog.to_csv('data/joined_avgtravel_demographics.csv')
+avg_withdemog.to_csv('data/joined_avgtravel_demographics_percent.csv')
 
+# create dataframes that organize all this data by color line
 
+# travel_demographics_red = pd.DataFrame(avg_withdemog['LINE'] == 'RED')
+travel_demographics_red = pd.DataFrame
+travel_demographics_red = avg_withdemog[(avg_withdemog['LINE'] == 'RED')]
+travel_demographics_red.head()
 
+# export to CSV
+travel_demographics_red.to_csv('data/travel_demographics_red.csv')
 
+# do it for the blue line
+travel_demographics_blue = pd.DataFrame
+travel_demographics_blue = avg_withdemog[(avg_withdemog['LINE'] == 'BLUE')]
+travel_demographics_blue.head()
 
+# export to CSV
+travel_demographics_blue.to_csv('data/travel_demographics_blue.csv')
 
+# do it for the green line
+travel_demographics_green = pd.DataFrame
+travel_demographics_green = avg_withdemog[(avg_withdemog['LINE'] == 'GREEN')]
+travel_demographics_green.head()
 
+# export to CSV
+travel_demographics_green.to_csv('data/travel_demographics_green.csv')
+
+# do it for the orange line
+travel_demographics_orange = pd.DataFrame
+travel_demographics_orange = avg_withdemog[(avg_withdemog['LINE'] == 'ORANGE')]
+travel_demographics_orange.head()
+
+# export to CSV
+travel_demographics_orange.to_csv('data/travel_demographics_orange.csv')
 
 
 # if fuzzywuzzy.ratio(avg_travel2.origin_id(['origin_id']), df_demog.STATION(['STATION'])) >= 97
