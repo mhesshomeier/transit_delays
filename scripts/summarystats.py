@@ -113,6 +113,96 @@ avg_travel2.to_csv('data/avg_benchmark_origin2.csv')
 df_demog = pd.read_csv('data/station_demog.csv')
 
 df_demog.shape
+avg_travel2.shape
+
+df_demog.head()
+
+# try to merge df_demog and avg_travel2 on origin_name and station
+avg_demog = pd.merge(avg_travel2, df_demog, how='outer', left_on="origin_id", right_on='STATION')
+
+avg_demog.head()
+
+# use fuzzywuzzy
+import fuzzywuzzy
+
+avg_travel2.head()
+# check what data type origin name is
+avg_travel2['origin_name'].dtype
+#try to convert to string
+avg_travel2['origin_name'] = avg_travel2['origin_name'].astype('str')
+
+avg_travel2['origin_name'].dtype
+# take the brackets off the string
+avg_travel2['origin_name'] = avg_travel2['origin_name'].str.strip('[]')
+
+
+avg_travel2.head()
+
+avg_travel2.shape
+
+
+# try again to merge the two dataframes, will clean after merge
+avg_demog = pd.merge(avg_travel2, df_demog, how='outer', left_on="origin_id", right_on='STATION')
+
+avg_demog.head()
+
+#pull out the records that have missing demographic data (all?)
+missing_demog = avg_demog[avg_demog.STATION.isnull()]
+
+missing_demog
+
+from fuzzywuzzy import fuzz
+
+# create a function to match station names
+def match_name(name, list_names, min_score=0):
+    max_score = -1
+    max_name = ''
+    for name2 in list_names:
+        score = fuzz.ratio(name, name2)
+        if (score > min_score) & (score > max_score):
+            max_name = name2
+            max_score = score
+    return (max_name, max_score)
+#set up a dictionary to fill and create dataframe
+dict_list = []
+
+ # feed my data into the function i created for fuzzy matching
+ for name in missing_demog.origin_name:
+    match = match_name(name, df_demog.STATION, 15)
+    # new dictionary for storing data
+    dict_ = {}
+    dict_.update({'STATION' : name})
+    dict_.update({'match_name' : match[0]})
+    dict_.update({'score' : match[1]})
+    dict_list.append(dict_)
+
+merge_table = pd.DataFrame(dict_list)
+merge_table
+
+# connect my matched names in the merge_table to the avg travel file
+avg_withkey = pd.merge(avg_travel2, merge_table, how='inner', left_on="origin_name", right_on='STATION')
+
+avg_withkey.head()
+# using the match_name column in the avg_withkey file, connect avg travel time data to demographic data
+avg_withdemog = pd.merge(avg_withkey, df_demog, how='inner', left_on="match_name", right_on='STATION')
+
+avg_withdemog.head()
+avg_withdemog.shape
+# export the full file to csv!
+avg_withdemog.to_csv('data/joined_avgtravel_demographics.csv')
+
+
+
+
+
+
+
+
+
+# if fuzzywuzzy.ratio(avg_travel2.origin_id(['origin_id']), df_demog.STATION(['STATION'])) >= 97
+    # avg_demog1 = pd.merge(avg_travel2, df_demog, how='outer', left_on="origin_id", right_on='STATION')
+    # return(avg_demog1)
+
 
 # print(avg_time1)
 #
@@ -124,4 +214,4 @@ df_demog.shape
 # print(avg_time)
 
 
-df_avg = pd.read_csv('data/avg_benchmark_origin.csv')
+# df_avg = pd.read_csv('data/avg_benchmark_origin.csv')

@@ -86,7 +86,7 @@ df_source_target.shape
 print(df_stoppairs)
 
 
-df_stoppairs.tail()
+df_stoppairs.shape
 # dropna didn't seem to work
 df_stop_pair2 = df_stoppairs.dropna(axis=0, how='any', subset=['to_stop', 'from_stop'], inplace=False)
 
