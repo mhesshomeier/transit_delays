@@ -10,7 +10,7 @@ MBTA_api = "wX9NwuHnZU2ToO7GmGR9uw"
 
 # make sure I'm in the current directory
 import os
-os.chdir('/Users/abob/Desktop/github/big-data-spring2018/transit_delays/gtfs_scrape')
+os.chdir('/Users/meganhess-homeier/github/transit_delays/gtfs_scrape')
 
 
 #read in origin_dest2 csv with cbd lines removed
@@ -41,19 +41,23 @@ def url_string(x,y):
 # dest = [origin_dest2.dest_id]
 # print(url_string(origin,dest))
 
+source_target = pd.read_csv('source_target.csv', sep=',')
+
+source_target.columns
+
 
 ## for loop for scraping all data from mbta gtfs performance api
 from pandas.io.json import json_normalize
 
 all_perf_df = pd.DataFrame()
-for index, row in origin_dest2.iterrows():
-    api_string = url_string(row["origin_id"], row["dest_id"])
+for index, row in source_target.iterrows():
+    api_string = url_string(row["from_stop"], row["to_stop"])
     #or_d = pd.DataFrame(data = [,row["origin_id"], row["origin_name"], row["dest_id"], row["dest_name"]], columns = ['origin_id', 'origin_name', 'dest_id', 'dest_name'])
     resp = requests.get(api_string).json()
     pars_resp2 = json.dumps(resp)
     resp_pars = json.loads(pars_resp2)
     perf_df = json_normalize(resp_pars['travel_times'])
-    perf_df = perf_df.assign(origin_id = row["origin_id"], origin_name = row["origin_name"], dest_id = row["dest_id"], dest_name = row["dest_name"])
+    perf_df = perf_df.assign(origin_id = row["from_stop"], origin_name = row["origin_name"], dest_id = row["to_stop"], dest_name = row["dest_name"])
     all_perf_df = all_perf_df.append(perf_df)
 
 all_perf_df.to_csv('mbta_perf_v1.csv', encoding='utf-8')

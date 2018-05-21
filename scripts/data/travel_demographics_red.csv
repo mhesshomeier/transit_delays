@@ -1,0 +1,7 @@
+,travel_time_sec,origin_id,benchmark_travel_time_sec,origin_name,route_id,STATION_x,match_name,score,STATION_y,LINE,TERMINUS,ROUTE,Geo_TRACT,Geo_GEOID,total_pop,med_incom,gini,percent_over_benchmark
+1,1410.9162011173185,70061,1259.0391061452515,'Alewife',['Red'],'Alewife',Alewife,88,Alewife,RED,Y,A - Ashmont  B - Braintree  C - Alewife,354900,14000US25017354900,6553,54507,0.5089,1.1206293706293706
+22,613.5783783783784,70069,616.1783783783784,'Central - Inbound',['Red'],'Central - Inbound',Central Avenue,61,Central Avenue,RED,N,Mattapan Trolley,416300,14000US25021416300,4923,121080,0.4811,0.9957804426587598
+23,157.07567567567568,70073,284.18918918918916,'Charles/MGH - Inbound',['Red'],'Charles/MGH - Inbound',Charles/MGH,65,Charles/MGH,RED,N,A - Ashmont  B - Braintree  C - Alewife,20200,14000US25025020200,3782,75287,0.5349,0.552715168806467
+32,1199.1748633879781,70063,1136.4371584699454,'Davis - Inbound',['Red'],'Davis - Inbound',Davis,45,Davis,RED,N,A - Ashmont  B - Braintree  C - Alewife,350500,14000US25017350500,1510,97344,0.40700000000000003,1.0552056085551622
+53,427.1027027027027,70071,449.44864864864866,'Kendall/MIT - Inbound',['Red'],'Kendall/MIT - Inbound',Kendall/MIT,65,Kendall/MIT,RED,N,A - Ashmont  B - Braintree  C - Alewife,353102,14000US25017353102,4801,100476,0.3313,0.9502814258911819
+74,1057.6994535519125,70065,1016.4371584699453,'Porter - Inbound',['Red'],'Porter - Inbound',Porter,50,Porter,RED,N,A - Ashmont  B - Braintree  C - Alewife,354700,14000US25017354700,2750,101027,0.4488,1.0405950281708314

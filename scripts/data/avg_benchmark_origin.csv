@@ -1,103 +1,103 @@
-,travel_time_sec,origin_name,benchmark_travel_time_sec,origin_id
-0,358.3695652173913,Airport - Inbound,320.2173913043478,[70047]
-1,1410.9162011173185,Alewife,1259.0391061452515,[70061]
-2,1816.0,Allston Street - Inbound,1999.090909090909,[70126]
-3,29.96195652173913,Aquarium - Inbound,80.21739130434783,[70043]
-4,201.73708920187792,Arlington - Inbound,282.6924882629108,[70156]
-5,793.2553191489362,Assembly - Inbound,704.468085106383,[70278]
-6,1385.75,Babcock Street - Inbound,1520.8333333333333,[70136]
-7,259.6551724137931,Back Bay - Inbound,329.29655172413794,[70015]
-8,1467.96,Back of the Hill - Inbound,1598.72,[70258]
-9,785.5310734463277,Beachmont - Inbound,792.542372881356,[70055]
-10,1335.6990291262136,Beaconsfield - Inbound,1514.009708737864,[70176]
-11,881.9166666666666,Blandford Street - Inbound,896.25,[70148]
-12,2611.909090909091,Boston College - Inbound,2757.2727272727275,[70106]
-13,1040.5833333333333,Boston Univ Central - Inbound,1076.25,[70144]
-14,958.1818181818181,Boston Univ East - Inbound,1015.9090909090909,[70146]
-15,1182.75,Boston Univ West - Inbound,1316.25,[70142]
-16,112.38674033149171,Bowdoin - Inbound,183.31491712707182,[70038]
-17,51.76580796252927,Boylston - Inbound,118.63466042154566,[70158]
-18,1390.9320388349515,Brandon Hall - Inbound,1598.8252427184466,[70226]
-19,1041.0102040816328,Brigham Circle - Inbound,1220.1734693877552,[70250]
-20,1204.433962264151,Brookline Hills - Inbound,1337.0566037735848,[70178]
-21,1091.2314814814815,Brookline Village - Inbound,1218.9074074074074,[70180]
-22,613.5783783783784,Central - Inbound,616.1783783783784,[70069]
-23,157.07567567567568,Charles/MGH - Inbound,284.18918918918916,[70073]
-24,1651.5102040816328,Chestnut Hill - Inbound,1883.0204081632653,[70172]
-25,2334.5,Chestnut Hill Avenue - Inbound,2570.8333333333335,[70112]
-26,7.011764705882353,Chinatown - Inbound,120.0,[70019]
-27,2281.4545454545455,Chiswick Road - Inbound,2455.4545454545455,[70114]
-28,1768.8,Cleveland Circle - Inbound,1974.5142857142857,[70238]
-29,467.8251748251748,Community College - Inbound,455.2867132867133,[70028]
-30,1181.9514563106795,Coolidge Corner - Inbound,1407.4271844660195,[70220]
-31,316.3649289099526,Copley - Inbound,405.8293838862559,[70154]
-32,1199.1748633879781,Davis - Inbound,1136.4371584699454,[70063]
-33,1678.1559633027523,Dean Road - Inbound,1836.6880733944954,[70234]
-34,2165.704081632653,Eliot - Inbound,2404.408163265306,[70166]
-35,1730.5882352941176,Englewood Avenue - Inbound,1923.9882352941177,[70236]
-36,1442.7981651376147,Fairbanks Street - Inbound,1646.3394495412845,[70228]
-37,843.311320754717,Fenway - Inbound,984.4716981132076,[70186]
-38,1188.2777777777778,Fenwood Road - Inbound,1274.5833333333333,[70252]
-39,1154.8680555555557,Forest Hills Orange Line,1118.25,[70001]
-40,99.13888888888889,Government Center - Green Line Westbound,179.30555555555554,[70202]
-41,35.32608695652174,Government Center - to Wonderland,91.30434782608695,[70040]
-42,1011.125,Green Street - Inbound,1058.25,[70003]
-43,1740.9166666666667,Griggs Street - Inbound,1910.8333333333333,[70128]
-44,845.0952380952381,Harvard - Inbound,833.5714285714286,[70067]
-45,1610.6666666666667,Harvard Avenue - Inbound,1820.8333333333333,[70130]
-46,946.5700934579439,Hawes Street - Inbound,1112.5514018691588,[70214]
-47,225.54929577464787,Haymarket - Green Line Inbound,300.0,[70204]
-48,127.84722222222223,Haymarket - Orange Line Inbound,228.83333333333334,[70024]
-49,1486.0116279069769,Heath Street,1689.860465116279,[70260]
-50,497.057761732852,Hynes - Inbound,634.6462093862816,[70152]
-51,774.8068965517241,Jackson Square - Inbound,817.9862068965517,[70007]
-52,427.1027027027027,Kendall/MIT - Inbound,449.44864864864866,[70071]
-53,655.1954887218045,Kenmore - Inbound,755.5714285714286,[70150]
-54,1002.6238532110092,Kent Street - Inbound,1180.6788990825687,[70216]
-55,661.9904761904762,Lechmere - Inbound,720.9714285714285,[70210]
-56,958.2407407407408,Longwood - Inbound,1094.037037037037,[70182]
-57,931.1730769230769,Longwood Medical Area - Inbound,1055.1634615384614,[70248]
-58,1250.3941605839416,Malden - Inbound,1065.1313868613138,[70034]
-59,390.7241379310345,Massachusetts Avenue - Inbound,449.29655172413794,[70013]
-60,172.34972677595627,Maverick - Inbound,200.0,[70045]
-61,1302.625,Mission Park - Inbound,1421.965909090909,[70254]
-62,785.5779816513761,Museum of Fine Arts - Inbound,932.0366972477065,[70246]
-63,1866.888888888889,Newton Centre - Inbound,2124.6060606060605,[70170]
-64,2000.3030303030303,Newton Highlands - Inbound,2284.969696969697,[70168]
-65,333.3285714285714,North Station - Green Line Inbound,420.0,[70206]
-66,216.20138888888889,North Station - Orange Line Inbound,315.3541666666667,[70026]
-67,640.2342342342342,Northeastern - Inbound,710.2702702702703,[70244]
-68,1379.8692307692309,Oak Grove,1183.8692307692309,[70036]
-69,608.5593220338983,Orient Heights - Inbound,560.6779661016949,[70051]
-70,1484.8333333333333,Packards Corner - Inbound,1640.8333333333333,[70134]
-71,19.098360655737704,Park Street - to Ashmont/Braintree,120.0,[70075]
-72,1302.5833333333333,Pleasant Street - Inbound,1460.8333333333333,[70138]
-73,1057.6994535519125,Porter - Inbound,1016.4371584699453,[70065]
-74,475.50359712230215,Prudential - Inbound,533.6330935251799,[70240]
-75,1471.7551020408164,Reservoir - Inbound,1696.6938775510205,[70174]
-76,903.4237288135594,Revere Beach - Inbound,852.542372881356,[70057]
-77,2464.55737704918,Riverside - Inbound,2758.9180327868853,[70160]
-78,1380.7422680412371,Riverway - Inbound,1531.9484536082475,[70256]
-79,649.1724137931035,Roxbury Crossing - Inbound,689.2965517241379,[70009]
-80,518.6620689655173,Ruggles - Inbound,569.2965517241379,[70011]
-81,864.2410714285714,Saint Mary Street - Inbound,994.0446428571429,[70212]
-82,1082.3495934959349,Saint Paul Street - Inbound,1292.0731707317073,[70140 70218]
-83,526.705035971223,Science Park - Inbound,603.5395683453237,[70208]
-84,2471.75,South Street - Inbound,2630.8333333333335,[70110]
-85,16.391304347826086,State Street - to Forest Hills,109.56521739130434,[70022]
-86,872.8333333333334,Stony Brook - Inbound,938.25,[70005]
-87,707.4067796610169,Suffolk Downs - Inbound,672.542372881356,[70053]
-88,677.020979020979,Sullivan Square - Inbound,583.8461538461538,[70030]
-89,1311.752380952381,Summit Avenue - Inbound,1479.847619047619,[70224]
-90,2181.0,Sutherland Road - Inbound,2330.8333333333335,[70116]
-91,564.2408759124088,Symphony - Inbound,592.6642335766423,[70242]
-92,1603.75,Tappan Street - Inbound,1773.6944444444443,[70232]
-93,113.97931034482758,Tufts Medical Center - Inbound,195.31034482758622,[70017]
-94,2294.7676767676767,Waban - Inbound,2524.969696969697,[70164]
-95,1888.0,Warren Street - Inbound,2060.8333333333335,[70124]
-96,1494.5636363636363,Washington Square - Inbound,1716.9,[70230]
-97,2040.2727272727273,Washington Street - Inbound,2239.090909090909,[70120]
-98,939.1970802919708,Wellington - Inbound,835.7080291970802,[70032]
-99,982.0795454545455,Wonderland,912.7840909090909,[70060]
-100,465.3532608695652,Wood Island - Inbound,440.2173913043478,[70049]
-101,2416.5050505050503,Woodland - Inbound,2699.030303030303,[70162]
+,travel_time_sec,origin_name,benchmark_travel_time_sec,origin_id,neigh
+0,358.3695652,Airport - Inbound,320.2173913,[70047],East Boston
+1,1410.916201,Alewife,1259.039106,[70061],Cambridge/ North Cambridge
+2,1816,Allston Street - Inbound,1999.090909,[70126],Allston
+3,29.96195652,Aquarium - Inbound,80.2173913,[70043],Downtown
+4,201.7370892,Arlington - Inbound,282.6924883,[70156],Back Bay
+5,793.2553191,Assembly - Inbound,704.4680851,[70278],Somerville/ Assembly Square
+6,1385.75,Babcock Street - Inbound,1520.833333,[70136],Fenway-Kenmore
+7,259.6551724,Back Bay - Inbound,329.2965517,[70015],Back Bay
+8,1467.96,Back of the Hill - Inbound,1598.72,[70258],Mission Hill
+9,785.5310734,Beachmont - Inbound,792.5423729,[70055],Revere/ Beachmont
+10,1335.699029,Beaconsfield - Inbound,1514.009709,[70176],Brookline
+11,881.9166667,Blandford Street - Inbound,896.25,[70148],Fenway-Kenmore
+12,2611.909091,Boston College - Inbound,2757.272727,[70106],Brighton
+13,1040.583333,Boston Univ Central - Inbound,1076.25,[70144],Fenway-Kenmore
+14,958.1818182,Boston Univ East - Inbound,1015.909091,[70146],Fenway-Kenmore
+15,1182.75,Boston Univ West - Inbound,1316.25,[70142],Fenway-Kenmore
+16,112.3867403,Bowdoin - Inbound,183.3149171,[70038],Beacon Hill
+17,51.76580796,Boylston - Inbound,118.6346604,[70158],Downtown
+18,1390.932039,Brandon Hall - Inbound,1598.825243,[70226],Brookline
+19,1041.010204,Brigham Circle - Inbound,1220.173469,[70250],Mission Hill
+20,1204.433962,Brookline Hills - Inbound,1337.056604,[70178],Brookline
+21,1091.231481,Brookline Village - Inbound,1218.907407,[70180],Brookline
+22,613.5783784,Central - Inbound,616.1783784,[70069],Cambridge/ Central Square
+23,157.0756757,Charles/MGH - Inbound,284.1891892,[70073],West End
+24,1651.510204,Chestnut Hill - Inbound,1883.020408,[70172],Newton/ Chestnut Hill
+25,2334.5,Chestnut Hill Avenue - Inbound,2570.833333,[70112],Brighton
+26,7.011764706,Chinatown - Inbound,120,[70019],Chinatown
+27,2281.454545,Chiswick Road - Inbound,2455.454545,[70114],Brighton
+28,1768.8,Cleveland Circle - Inbound,1974.514286,[70238],Brighton
+29,467.8251748,Community College - Inbound,455.2867133,[70028],Charlestown
+30,1181.951456,Coolidge Corner - Inbound,1407.427184,[70220],Coolidge Corner
+31,316.3649289,Copley - Inbound,405.8293839,[70154],Downtown
+32,1199.174863,Davis - Inbound,1136.437158,[70063],Somerville/ Davis
+33,1678.155963,Dean Road - Inbound,1836.688073,[70234],Brookline
+34,2165.704082,Eliot - Inbound,2404.408163,[70166],Newton/ Newton Upper Falls
+35,1730.588235,Englewood Avenue - Inbound,1923.988235,[70236],Brookline
+36,1442.798165,Fairbanks Street - Inbound,1646.33945,[70228],Brookline
+37,843.3113208,Fenway - Inbound,984.4716981,[70186],Fenway-Kenmore
+38,1188.277778,Fenwood Road - Inbound,1274.583333,[70252],Mission Hill
+39,1154.868056,Forest Hills Orange Line,1118.25,[70001],Jamaica Plain
+40,99.13888889,Government Center - Green Line Westbound,179.3055556,[70202],Downtown
+41,35.32608696,Government Center - to Wonderland,91.30434783,[70040],Downtown
+42,1011.125,Green Street - Inbound,1058.25,[70003],Jamaica Plain
+43,1740.916667,Griggs Street - Inbound,1910.833333,[70128],Allston
+44,845.0952381,Harvard - Inbound,833.5714286,[70067],Cambridge/ Harvard Square
+45,1610.666667,Harvard Avenue - Inbound,1820.833333,[70130],Allston
+46,946.5700935,Hawes Street - Inbound,1112.551402,[70214],Brookline
+47,225.5492958,Haymarket - Green Line Inbound,300,[70204],Downtown
+48,127.8472222,Haymarket - Orange Line Inbound,228.8333333,[70024],Downtown
+49,1486.011628,Heath Street,1689.860465,[70260],Jamaica Plain
+50,497.0577617,Hynes - Inbound,634.6462094,[70152],Downtown
+51,774.8068966,Jackson Square - Inbound,817.9862069,[70007],Jamaica Plain
+52,427.1027027,Kendall/MIT - Inbound,449.4486486,[70071],Cambridge/ Kendall Square
+53,655.1954887,Kenmore - Inbound,755.5714286,[70150],Fenway-Kenmore
+54,1002.623853,Kent Street - Inbound,1180.678899,[70216],Brookline
+55,661.9904762,Lechmere - Inbound,720.9714286,[70210],Cambridge/ Lechmere Square
+56,958.2407407,Longwood - Inbound,1094.037037,[70182],Brookline
+57,931.1730769,Longwood Medical Area - Inbound,1055.163462,[70248],Mission Hill
+58,1250.394161,Malden - Inbound,1065.131387,[70034],Malden
+59,390.7241379,Massachusetts Avenue - Inbound,449.2965517,[70013],Fenway-Kenmore
+60,172.3497268,Maverick - Inbound,200,[70045],East Boston
+61,1302.625,Mission Park - Inbound,1421.965909,[70254],Mission Hill
+62,785.5779817,Museum of Fine Arts - Inbound,932.0366972,[70246],Fenway-Kenmore
+63,1866.888889,Newton Centre - Inbound,2124.606061,[70170],Newton/ Newton Centre
+64,2000.30303,Newton Highlands - Inbound,2284.969697,[70168],Newton/ Newton Highlands
+65,333.3285714,North Station - Green Line Inbound,420,[70206],West End
+66,216.2013889,North Station - Orange Line Inbound,315.3541667,[70026],West End
+67,640.2342342,Northeastern - Inbound,710.2702703,[70244],Fenway-Kenmore
+68,1379.869231,Oak Grove,1183.869231,[70036],Malden
+69,608.559322,Orient Heights - Inbound,560.6779661,[70051],East Boston
+70,1484.833333,Packards Corner - Inbound,1640.833333,[70134],Allston
+71,19.09836066,Park Street - to Ashmont/Braintree,120,[70075],Downtown
+72,1302.583333,Pleasant Street - Inbound,1460.833333,[70138],Fenway-Kenmore
+73,1057.699454,Porter - Inbound,1016.437158,[70065],Cambridge/ Porter Square
+74,475.5035971,Prudential - Inbound,533.6330935,[70240],Back Bay
+75,1471.755102,Reservoir - Inbound,1696.693878,[70174],Brighton
+76,903.4237288,Revere Beach - Inbound,852.5423729,[70057],Revere
+77,2464.557377,Riverside - Inbound,2758.918033,[70160],Newton/ Auburndale
+78,1380.742268,Riverway - Inbound,1531.948454,[70256],Mission Hill
+79,649.1724138,Roxbury Crossing - Inbound,689.2965517,[70009],Roxbury
+80,518.662069,Ruggles - Inbound,569.2965517,[70011],Roxbury
+81,864.2410714,Saint Mary Street - Inbound,994.0446429,[70212],Brookline
+82,1082.349593,Saint Paul Street - Inbound,1292.073171,[70140 70218],Fenway-Kenmore
+83,526.705036,Science Park - Inbound,603.5395683,[70208],West End
+84,2471.75,South Street - Inbound,2630.833333,[70110],Brighton
+85,16.39130435,State Street - to Forest Hills,109.5652174,[70022],Downtown
+86,872.8333333,Stony Brook - Inbound,938.25,[70005],Jamaica Plain
+87,707.4067797,Suffolk Downs - Inbound,672.5423729,[70053],East Boston
+88,677.020979,Sullivan Square - Inbound,583.8461538,[70030],Charlestown
+89,1311.752381,Summit Avenue - Inbound,1479.847619,[70224],Brookline
+90,2181,Sutherland Road - Inbound,2330.833333,[70116],Brighton
+91,564.2408759,Symphony - Inbound,592.6642336,[70242],Fenway-Kenmore
+92,1603.75,Tappan Street - Inbound,1773.694444,[70232],Brookline
+93,113.9793103,Tufts Medical Center - Inbound,195.3103448,[70017],Chinatown
+94,2294.767677,Waban - Inbound,2524.969697,[70164],Newton/ Waban
+95,1888,Warren Street - Inbound,2060.833333,[70124],Brighton
+96,1494.563636,Washington Square - Inbound,1716.9,[70230],Brookline
+97,2040.272727,Washington Street - Inbound,2239.090909,[70120],Brighton
+98,939.1970803,Wellington - Inbound,835.7080292,[70032],Medford
+99,982.0795455,Wonderland,912.7840909,[70060],Revere
+100,465.3532609,Wood Island - Inbound,440.2173913,[70049],East Boston
+101,2416.505051,Woodland - Inbound,2699.030303,[70162],Newton/ Newton Lower Falls

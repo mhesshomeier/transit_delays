@@ -1,0 +1,11 @@
+,travel_time_sec,origin_id,benchmark_travel_time_sec,origin_name,route_id,STATION_x,match_name,score,STATION_y,LINE,TERMINUS,ROUTE,Geo_TRACT,Geo_GEOID,total_pop,med_incom,gini,percent_over_benchmark
+0,358.3695652173913,70047,320.2173913043478,'Airport - Inbound',['Blue'],'Airport - Inbound',Airport,54,Airport,BLUE,N,Bowdoin to Wonderland,981300,14000US25025981300,428,101875,0.3535,1.1191446028513239
+3,29.96195652173913,70043,80.21739130434783,'Aquarium - Inbound',['Blue'],'Aquarium - Inbound',Aquarium,57,Aquarium,BLUE,N,Bowdoin to Wonderland,30300,14000US25025030300,5562,112639,0.5786,0.37350948509485093
+9,785.5310734463277,70055,792.542372881356,'Beachmont - Inbound',['Blue'],'Beachmont - Inbound',Beachmont,60,Beachmont,BLUE,N,Bowdoin to Wonderland,170701,14000US25025170701,2057,41635,0.5142,0.9911534074707727
+16,112.38674033149171,70038,183.31491712707182,'Bowdoin - Inbound',['Blue'],'Bowdoin - Inbound',Bowdoin,54,Bowdoin,BLUE,Y,Bowdoin to Wonderland,30300,14000US25025030300,5562,112639,0.5786,0.6130801687763713
+61,172.34972677595627,70045,200.0,'Maverick - Inbound',['Blue'],'Maverick - Inbound',Maverick,57,Maverick,BLUE,N,Bowdoin to Wonderland,50400,14000US25025050400,2556,52572,0.4706,0.8617486338797814
+70,608.5593220338983,70051,560.6779661016949,'Orient Heights - Inbound',['Blue'],'Orient Heights - Inbound',Orient Heights,70,Orient Heights,BLUE,N,Bowdoin to Wonderland,51101,14000US25025051101,7121,57454,0.4406,1.0853990326481258
+77,903.4237288135594,70057,852.542372881356,'Revere Beach - Inbound',['Blue'],'Revere Beach - Inbound',Revere Beach,67,Revere Beach,BLUE,N,Bowdoin to Wonderland,170501,14000US25025170501,3645,45257,0.5162,1.0596819085487077
+94,707.4067796610169,70053,672.542372881356,'Suffolk Downs - Inbound',['Blue'],'Suffolk Downs - Inbound',Suffolk Downs,68,Suffolk Downs,BLUE,N,Bowdoin to Wonderland,51101,14000US25025051101,7121,57454,0.4406,1.0518397177419354
+106,982.0795454545455,70060,912.7840909090909,'Wonderland',['Blue'],'Wonderland',Wonderland,91,Wonderland,BLUE,Y,Bowdoin to Wonderland,170501,14000US25025170501,3645,45257,0.5162,1.0759165888577653
+107,465.3532608695652,70049,440.2173913043478,'Wood Island - Inbound',['Blue'],'Wood Island - Inbound',Wood Island,65,Wood Island,BLUE,N,Bowdoin to Wonderland,981300,14000US25025981300,428,101875,0.3535,1.0570987654320987
