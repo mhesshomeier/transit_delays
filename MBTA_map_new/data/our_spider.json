@@ -1,0 +1,466 @@
+{
+  "place-wondl": [
+    22.095,
+    3.645
+  ],
+  "place-rbmnl": [
+    21.459,
+    4.281
+  ],
+  "place-bmmnl": [
+    20.823,
+    4.917
+  ],
+  "place-sdmnl": [
+    20.187,
+    5.553
+  ],
+  "place-orhte": [
+    19.551,
+    6.189
+  ],
+  "place-wimnl": [
+    18.915,
+    6.825
+  ],
+  "place-aport": [
+    18.279,
+    7.461
+  ],
+  "place-mvbcl": [
+    17.572,
+    8.168
+  ],
+  "place-aqucl": [
+    16.572,
+    8.168
+  ],
+  "place-state": [
+    15.865,
+    7.461
+  ],
+  "place-haecl-orange": [
+    16.926,
+    6.4
+  ],
+  "place-dwnxg": [
+    15.158,
+    8.168
+  ],
+  "place-chncl": [
+    14.451,
+    8.875
+  ],
+  "place-tumnl": [
+    13.744,
+    9.582
+  ],
+  "place-bbsta": [
+    13.037,
+    10.289
+  ],
+  "place-masta": [
+    12.33,
+    10.996
+  ],
+  "place-rugg": [
+    11.623,
+    11.703
+  ],
+  "place-rcmnl": [
+    10.916,
+    12.41
+  ],
+  "place-jaksn": [
+    10.209,
+    13.117
+  ],
+  "place-sbmnl": [
+    9.502,
+    13.824
+  ],
+  "place-grnst": [
+    8.795,
+    14.531
+  ],
+  "place-forhl": [
+    8.088,
+    15.238
+  ],
+  "place-pktrm": [
+    14.451,
+    7.461
+  ],
+  "place-sstat": [
+    15.865,
+    8.875
+  ],
+  "place-brdwy": [
+    15.865,
+    9.875
+  ],
+  "place-andrw": [
+    15.865,
+    10.875
+  ],
+  "place-jfk": [
+    15.865,
+    11.875
+  ],
+  "place-shmnl": [
+    15.158,
+    12.582
+  ],
+  "place-fldcr": [
+    15.158,
+    13.582
+  ],
+  "place-smmnl": [
+    15.158,
+    14.582
+  ],
+  "place-asmnl": [
+    15.158,
+    15.582
+  ],
+  "place-nqncy": [
+    16.572,
+    12.582
+  ],
+  "place-wlsta": [
+    17.279,
+    13.289
+  ],
+  "place-qnctr": [
+    17.986,
+    13.996
+  ],
+  "place-qamnl": [
+    18.693,
+    14.703
+  ],
+  "place-brntn": [
+    18.693,
+    15.703
+  ],
+  "place-gover": [
+    15.158,
+    6.754
+  ],
+  "place-boyls": [
+    13.744,
+    8.168
+  ],
+  "place-armnl": [
+    12.744,
+    8.168
+  ],
+  "place-coecl": [
+    11.744,
+    8.168
+  ],
+  "place-hymnl": [
+    10.744,
+    8.168
+  ],
+  "place-kencl": [
+    9.744,
+    8.168
+  ],
+  "place-bland": [
+    9.037,
+    7.461
+  ],
+  "place-buest": [
+    8.542,
+    6.966
+  ],
+  "place-bucen": [
+    8.047,
+    6.471
+  ],
+  "place-buwst": [
+    7.552,
+    5.976
+  ],
+  "place-stplb": [
+    7.057,
+    5.481
+  ],
+  "place-plsgr": [
+    6.562,
+    4.986
+  ],
+  "place-babck": [
+    5.862,
+    4.986
+  ],
+  "place-brico": [
+    5.162,
+    4.986
+  ],
+  "place-harvd": [
+    4.667,
+    5.481
+  ],
+  "place-grigg": [
+    4.172,
+    5.976
+  ],
+  "place-alsgr": [
+    3.677,
+    6.471
+  ],
+  "place-wrnst": [
+    3.182,
+    6.966
+  ],
+  "place-wascm": [
+    2.687,
+    7.461
+  ],
+  "place-sthld": [
+    2.192,
+    7.956
+  ],
+  "place-chswk": [
+    1.697,
+    8.451
+  ],
+  "place-chill": [
+    1.202,
+    8.946
+  ],
+  "place-sougr": [
+    0.707,
+    9.441
+  ],
+  "place-lake": [
+    0,
+    10.148
+  ],
+  "place-smary": [
+    7.744,
+    8.168
+  ],
+  "place-hwsst": [
+    7.249,
+    7.673
+  ],
+  "place-kntst": [
+    6.549,
+    7.673
+  ],
+  "place-stpul": [
+    6.054,
+    8.168
+  ],
+  "place-cool": [
+    5.559,
+    8.663
+  ],
+  "place-sumav": [
+    5.064,
+    9.158
+  ],
+  "place-bndhl": [
+    4.569,
+    9.653
+  ],
+  "place-fbkst": [
+    4.074,
+    10.148
+  ],
+  "place-bcnwa": [
+    3.579,
+    10.643
+  ],
+  "place-tapst": [
+    3.084,
+    11.138
+  ],
+  "place-denrd": [
+    2.589,
+    11.633
+  ],
+  "place-engav": [
+    2.094,
+    12.128
+  ],
+  "place-clmnl": [
+    1.387,
+    12.835
+  ],
+  "place-fenwy": [
+    9.037,
+    8.875
+  ],
+  "place-longw": [
+    8.542,
+    9.37
+  ],
+  "place-bvmnl": [
+    8.047,
+    9.865
+  ],
+  "place-brkhl": [
+    7.552,
+    10.36
+  ],
+  "place-bcnfd": [
+    7.057,
+    10.855
+  ],
+  "place-rsmnl": [
+    6.562,
+    11.35
+  ],
+  "place-chhil": [
+    6.067,
+    11.845
+  ],
+  "place-newto": [
+    5.572,
+    12.34
+  ],
+  "place-newtn": [
+    5.077,
+    12.835
+  ],
+  "place-eliot": [
+    4.582,
+    13.33
+  ],
+  "place-waban": [
+    4.087,
+    13.825
+  ],
+  "place-woodl": [
+    3.592,
+    14.32
+  ],
+  "place-river": [
+    2.885,
+    15.027
+  ],
+  "place-prmnl": [
+    11.037,
+    8.875
+  ],
+  "place-symcl": [
+    11.037,
+    9.875
+  ],
+  "place-nuniv": [
+    10.542,
+    10.37
+  ],
+  "place-mfa": [
+    10.047,
+    10.865
+  ],
+  "place-lngmd": [
+    9.552,
+    11.36
+  ],
+  "place-brmnl": [
+    9.057,
+    11.855
+  ],
+  "place-fenwd": [
+    8.562,
+    12.35
+  ],
+  "place-mispk": [
+    8.067,
+    12.845
+  ],
+  "place-rvrwy": [
+    7.572,
+    13.34
+  ],
+  "place-bckhl": [
+    7.077,
+    13.835
+  ],
+  "place-hsmnl": [
+    6.37,
+    14.542
+  ],
+  "place-bomnl": [
+    14.451,
+    6.047
+  ],
+  "place-north-orange": [
+    16.926,
+    5.2
+  ],
+  "place-chmnl": [
+    13.602,
+    6.612
+  ],
+  "place-haecl": [
+    15.865,
+    6.047
+  ],
+  "place-ccmnl": [
+    16.926,
+    4.2
+  ],
+  "place-knncl": [
+    12.753,
+    5.763
+  ],
+  "place-north": [
+    15.865,
+    5.047
+  ],
+  "place-sull": [
+    16.926,
+    3.2
+  ],
+  "place-cntsq": [
+    11.904,
+    4.914
+  ],
+  "place-spmnl": [
+    15.158,
+    4.34
+  ],
+  "place-astao": [
+    16.926,
+    2.4
+  ],
+  "place-harsq": [
+    11.055,
+    4.065
+  ],
+  "place-lech": [
+    14.451,
+    3.633
+  ],
+  "place-welln": [
+    16.926,
+    1.6
+  ],
+  "place-portr": [
+    10.206,
+    3.216
+  ],
+  "place-mlmnl": [
+    16.926,
+    0.8
+  ],
+  "place-davis": [
+    9.206,
+    3.216
+  ],
+  "place-ogmnl": [
+    16.926,
+    0
+  ],
+  "place-alfcl": [
+    8.206,
+    3.216
+  ]
+}
