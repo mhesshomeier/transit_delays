@@ -1,4 +1,7 @@
-chart("data/data.csv", "orange");
+
+
+
+chart("js/data/data.csv", "orange");
 
 var datearray = [];
 var colorrange = [];
@@ -67,7 +70,7 @@ var area = d3.svg.area()
     .y0(function(d) { return y(d.y0); })
     .y1(function(d) { return y(d.y0 + d.y); });
 
-var svg = d3.select(".chart").append("svg")
+var svg = d3.select("#chart").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
@@ -146,7 +149,7 @@ var graph = d3.csv(csvpath, function(data) {
       .attr("stroke-width", "0px"), tooltip.html( "<p>" + d.key + "<br>" + pro + "</p>" ).style("visibility", "hidden");
   })
 
-  var vertical = d3.select(".chart")
+  var vertical = d3.select("#chart")
         .append("div")
         .attr("class", "remove")
         .style("position", "absolute")
@@ -158,7 +161,7 @@ var graph = d3.csv(csvpath, function(data) {
         .style("left", "0px")
         .style("background", "#fff");
 
-  d3.select(".chart")
+  d3.select("#chart")
       .on("mousemove", function(){
          mousex = d3.mouse(this);
          mousex = mousex[0] + 5;

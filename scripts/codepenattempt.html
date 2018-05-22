@@ -59,9 +59,15 @@ d3.csv("data/red_bar_data.csv", function(d) {
   return {
     origin : d.origin_name,
     values: [
-      {name: 'travel time, percent over benchmark', value : +d.percent_over_benchmark[keyNames[0]]},
-      {name: 'median income', value : +d.med_incom[keyNames[1]]}
+      {name: 'travel time, percent over benchmark', value : +d.percent_over_benchmark},
+      {name: 'median income', value : +d.med_incom}
     ]
+
+//
+//     values: [
+//  {name: 'travel time, percent over benchmark', value : +d.percent_over_benchmark},
+//  {name: 'median income', value : +d.med_incom}
+// ]
     // console.log(values);
   };
 
@@ -108,7 +114,7 @@ d3.csv("data/red_bar_data.csv", function(d) {
 
   // .rangeRoundBands([0, width], .1) => d3.scaleBand().rangeRound([0, width])
 
-  y0.domain([0, d3.max(data, function(d) { return d.values[0].value; })]);
+  y0.domain([0, d3.max(data, function(d) { return d.percent_over_benchmark; })]);
   y1.domain([0, d3.max(data, function(d) { return d.med_incom; })]);
 
 
@@ -162,7 +168,7 @@ d3.csv("data/red_bar_data.csv", function(d) {
 
         graph.selectAll("rect")
             .data(function(d) {
-              console.log(d.values);
+              // console.log(d.values);
               return d.values; })
             .enter()
             .append("rect")
