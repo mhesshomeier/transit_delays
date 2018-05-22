@@ -27,6 +27,7 @@ var svg = d3.select("svg"),
 var x = d3.scaleBand().rangeRound([0, width]).padding(0.1),
     y = d3.scaleLinear().rangeRound([height, 0]),
     y1 =d3.scaleLinear().rangeRound([height, 0]);
+
 var g = svg.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
@@ -39,7 +40,7 @@ d3.csv("data/travel_demographics_red.csv", function(d) {
 
   x.domain(data.map(function(d) { return d.origin_name; }));
   y.domain([0, d3.max(data, function(d) { return d.percent_over_benchmark; })])
-  y1.domain([0,d3.max(data, function(d) { return d.med_incom; })]);
+  y1.domain([0, d3.max(data, function(d) { return d.med_incom; })]);
 
   g.append("g")
       .attr("class", "axis axis--x")
@@ -63,8 +64,18 @@ d3.csv("data/travel_demographics_red.csv", function(d) {
       .attr("x", function(d) { return x(d.origin_name); })
       .attr("y", function(d) { return y(d.percent_over_benchmark); })
       // .attr('y1', function(d) { return y1(d.med_incom); })
-      .attr("width", x.bandwidth())
+      .attr("width", x.bandwidth()- 50)
       .attr("height", function(d) { return height - y(d.percent_over_benchmark); });
+
+
+    g.selectAll(".bar")
+      .data(data)
+      .enter().append('rect')
+        .attr("class", "bar")
+        .attr("x", function(d) { return x(d.origin_name); })
+        .attr("y1", function(d) { return y1(d.med_incom); })
+        .attr("width", x.bandwidth()+50)
+        .attr("height", function(d) { return height - y1(d.med_incom); });
       // .attr('height', function(d) {return height - y(d.med_incom); });
       // Add the Y1 Axis
     svg.append("g")

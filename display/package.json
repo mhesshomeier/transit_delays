@@ -1,8 +1,8 @@
 {
-    "title": "Portfolio Item",
-    "name": "startbootstrap-portfolio-item",
+    "title": "1 Col Portfolio",
+    "name": "startbootstrap-1-col-portfolio",
     "version": "4.1.1",
-    "description": "A portfolio item HTML template built with Bootstrap",
+    "description": "A one column portfolio HTML template built with Bootstrap",
     "keywords": [
         "css",
         "sass",
@@ -11,9 +11,9 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/portfolio-item",
+    "homepage": "https://startbootstrap.com/template-overviews/1-col-portfolio",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-portfolio-item/issues",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
@@ -23,7 +23,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-portfolio-item.git"
+        "url": "https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio.git"
     },
     "dependencies": {
         "bootstrap": "4.1.1",

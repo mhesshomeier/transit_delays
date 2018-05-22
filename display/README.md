@@ -1,28 +1,28 @@
-# [Start Bootstrap - Portfolio Item](https://startbootstrap.com/template-overviews/portfolio-item/)
+# [Start Bootstrap - 1 Col Portfolio](https://startbootstrap.com/template-overviews/1-col-portfolio/)
 
-[Portfolio Item](http://startbootstrap.com/template-overviews/portfolio-item/) is an individual portfolio item template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[1 Col Portfolio](https://startbootstrap.com/template-overviews/1-col-portfolio/) is a single column portfolio layout template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
 
-[![Portfolio Item Preview](https://startbootstrap.com/assets/img/templates/portfolio-item.jpg)](https://blackrockdigital.github.io/startbootstrap-portfolio-item/)
+[![1 Col Portfolio Preview](https://startbootstrap.com/assets/img/templates/1-col-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-1-col-portfolio/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-portfolio-item/)**
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-1-col-portfolio/)**
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-portfolio-item/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-portfolio-item.svg)](https://www.npmjs.com/package/startbootstrap-portfolio-item)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-portfolio-item.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-portfolio-item)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-portfolio-item/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-portfolio-item)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-portfolio-item/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-portfolio-item?type=dev)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-1-col-portfolio/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-1-col-portfolio.svg)](https://www.npmjs.com/package/startbootstrap-1-col-portfolio)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-1-col-portfolio.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-1-col-portfolio)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-1-col-portfolio/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-1-col-portfolio)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-1-col-portfolio/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-1-col-portfolio?type=dev)
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/portfolio-item/)
-* Install via npm: `npm i startbootstrap-portfolio-item`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-portfolio-item.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-portfolio-item)
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/1-col-portfolio/)
+* Install via npm: `npm i startbootstrap-1-col-portfolio`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio)
 
 ## Usage
 
@@ -36,7 +36,7 @@ After installation, run `npm install` and then run `gulp dev` which will open up
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-portfolio-item/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/portfolio-item/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/1-col-portfolio/).
 
 ## Custom Builds
 
@@ -59,4 +59,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-portfolio-item/blob/gh-pages/LICENSE) license.
+Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/blob/gh-pages/LICENSE) license.
