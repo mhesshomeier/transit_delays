@@ -1,44 +1,4 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
-<style>
-
-body {
-  font: 10px sans-serif;
-}
-
-.chart {
-  background: #fff;
-}
-
-p {
-  font: 12px helvetica;
-}
-
-
-.axis path, .axis line {
-  fill: none;
-  stroke: #000;
-  stroke-width: 2px;
-  shape-rendering: crispEdges;
-}
-
-button {
-  position: absolute;
-  right: 50px;
-  top: 10px;
-}
-
-</style>
-<body>
-<script src="http://d3js.org/d3.v2.js"></script>
-
-
-<div class="chart">
-</div>
-
-<script>
-
-chart("data.csv", "orange");
+chart("data/data.csv", "orange");
 
 var datearray = [];
 var colorrange = [];
@@ -223,4 +183,3 @@ svg.append("g")
 
 });
 }
-</script>

@@ -28,7 +28,7 @@ stops_all = pd.merge(df_stops2016, df_stopscurrent, how='outer', on=["stop_lat",
          suffixes=('_old', '_new'), copy=True, indicator=False,
          validate=None)
 # check it out
-stops_all.head()
+print(stops_all)
 # read the combined data to a CSV
 stops_all.to_csv('data/stops_all.csv')
 
@@ -81,3 +81,41 @@ df_station_clean = df_station.loc[:,~df_station.columns.duplicated()]
 df_station_clean.head()
 # read that dataframe to one comprehensive json
 df_station_clean.to_json('data/station_allgreen.json')
+
+# load in spider json
+with open('data/spider_allgreen.json') as json_file:
+    spider_all = json.load(json_file)
+
+# make it into a DataFrame
+df_spider = pd.DataFrame.from_dict(spider_all, orient = 'index')
+
+print(df_spider)
+df_spider.head()
+
+## old stop ids is the index for df_spider
+
+# load in the csv and make it a dataframe
+df_stops = pd.read_csv("data/stops_all.csv")
+
+df_stops.head()
+print(df_spider)
+
+df_cropped = df_stops[['stop_id_old', 'stop_id_new', 'stop_name_new']].copy()
+
+df_cropped.head()
+
+
+df_spider_stops = pd.merge(df_spider, df_cropped, how='inner', on=None, left_on=None, right_on=["stop_id_old"],
+         left_index=True, right_index=False, sort=True,
+          copy=True, indicator=False,
+         validate=None)
+
+
+df_spider_stops.head()
+
+print(df_spider_stops)
+
+
+df_spider_stops.dropna(axis=0, how='any', subset = ['0','1'])
+
+df_spider_stops.to_csv('data/stations_coord_id.csv')

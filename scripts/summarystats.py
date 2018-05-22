@@ -231,6 +231,20 @@ travel_demographics_orange.head()
 travel_demographics_orange.to_csv('data/travel_demographics_orange.csv')
 
 
+
+#read in the red line demographics and travel data
+df_red = pd.read_csv('data/travel_demographics_red.csv')
+
+df_red.head()
+
+# create a dataframe with only the columns I really need
+df_red_subset = df_red[['origin_name','med_incom','percent_over_benchmark']].copy()
+df_red_subset.head()
+
+# read it out to CSV
+df_red_subset.to_csv('data/red_bar_data.csv')
+
+
 # if fuzzywuzzy.ratio(avg_travel2.origin_id(['origin_id']), df_demog.STATION(['STATION'])) >= 97
     # avg_demog1 = pd.merge(avg_travel2, df_demog, how='outer', left_on="origin_id", right_on='STATION')
     # return(avg_demog1)

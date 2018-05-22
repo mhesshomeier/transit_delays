@@ -52,145 +52,186 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-var data = d3.csv("data/red_bar_data.csv", function(d) {
-  d.percent_over_benchmark = +d.percent_over_benchmark,
-  d.med_incom = +d.med_incom;
-  return d;
-}, function(error, data) {
-  if (error) throw error;
+var keyNames = ['percent_over_benchmark','med_incom'];
 var dataset = [];
 
-  var keys = data.columns.slice(1);
-
-var keyNames = ['percent_over_benchmark','med_incom'];
-
-for(i = 0; i < data.length; i++ ) {
-    var station = data.origin_name;
-//     console.log(station[0]);
-//   // var station = data.origin_name[i];
-//   // console.log(station);
-  dataset[i] = {
-    station: station,
+d3.csv("data/red_bar_data.csv", function(d) {
+  return {
+    origin : d.origin_name,
     values: [
-      {name: 'Percent of average', value: data.percent_over_benchmark},
-      {name: 'Median Income', value: data.med_incom}
-     ]
- }
-};
-     // {name: 'Percent of average', value: data.origin_name[station][keyNames[0]]},
-     // {name: 'Median Income', value: data.origin_name[station][keyNames[1]]}
-  //   ]
+      {name: 'travel time, percent over benchmark', value : +d.percent_over_benchmark[keyNames[0]]},
+      {name: 'median income', value : +d.med_incom[keyNames[1]]}
+    ]
+    // console.log(values);
+  };
+
+}, function (data) {
+// console.log(data.values);
+
+
+  // for(i = 0; i < d.length; i++ ) {
+  //     var station = d.origin_name;
+  //     console.log(station[0]);
+  //   // var station = data.origin_name[i];
+  //   // console.log(station);
+  //   dataset[i] = {
+  //     station: station,
+  //     values: [
+  //       {name: 'Percent of average', value: data.percent_over_benchmark},
+  //       {name: 'Median Income', value: data.med_incom}
+  //      ]
+  //  }
   // };
 
 
-x0.domain(dataset.map(function(d) {
-  return d.origin_name; }));
-x1.domain(['percent_over_benchmark','med_incom']).range([0, 30]);
-  // scale.bandwidth();
-
-// ([0, x0.rangeBand()]);
-
-// d3.scaleBand()
-//   .rangeRound([range]);
-//
-//   scale.bandwidth();
-
-// x0.domain(dataset.map(function(d) { return d.date; }));
-// x1.domain(['Bookings','Bookings Revenue']).rangeRoundBands([0, x0.rangeBand()]);
-
-// .rangeRoundBands([0, width], .1) => d3.scaleBand().rangeRound([0, width])
-
-y0.domain([0, d3.max(data, function(d) { return d.percent_over_benchmark; })]);
-y1.domain([0, d3.max(data, function(d) { return d.med_incom; })]);
+       // {name: 'Percent of average', value: data.origin_name[station][keyNames[0]]},
+       // {name: 'Median Income', value: data.origin_name[station][keyNames[1]]}
+    //   ]
+    // };
 
 
-// y.domain([0, d3.max(data, function(d) { return d.percent_over_benchmark; })])
-// y1.domain([0, d3.max(data, function(d) { return d.med_incom; })]);
+  x0.domain(data.map(function(d) {
+    // console.log(d);
+    return d.origin_name; }));
+  x1.domain(['percent_over_benchmark','med_incom']).range([0, 30]);
+    // scale.bandwidth();
 
-// Ticks on x-axis and y-axis
-svg.append("g")
-    .attr("class", "x axis")
-    .attr("transform", "translate(0," + height + ")")
-    .call(xAxis);
+  // ([0, x0.rangeBand()]);
 
-svg.append("g")
-    .attr("class", "y0 axis")
-    .call(yAxisLeft)
-  .append("text")
-    .attr("transform", "rotate(-90)")
-    .attr("y", 6)
-    .attr("dy", ".71em")
-    .style("text-anchor", "end")
-    .style("fill", "#98abc5")
-    .text("Bookings");
+  // d3.scaleBand()
+  //   .rangeRound([range]);
+  //
+  //   scale.bandwidth();
 
-svg.select('.y0.axis')
-  .selectAll('.tick')
-    .style("fill","#98abc5");
+  // x0.domain(dataset.map(function(d) { return d.date; }));
+  // x1.domain(['Bookings','Bookings Revenue']).rangeRoundBands([0, x0.rangeBand()]);
 
-svg.append("g")
-    .attr("class", "y1 axis")
-    .attr("transform", "translate(" + width + ",0)")
-    .call(yAxisRight)
-  .append("text")
-    .attr("transform", "rotate(-90)")
-    .attr("y", -16)
-    .attr("dy", ".71em")
-    .style("text-anchor", "end")
-    .style("fill", "#d0743c")
-    .text("Bookings Revenue");
+  // .rangeRoundBands([0, width], .1) => d3.scaleBand().rangeRound([0, width])
 
-svg.select('.y1.axis')
-  .selectAll('.tick')
-    .style("fill","#d0743c");
-// End ticks
+  y0.domain([0, d3.max(data, function(d) { return d.values[0].value; })]);
+  y1.domain([0, d3.max(data, function(d) { return d.med_incom; })]);
 
-var graph = svg.selectAll(".date")
-    .data(dataset)
-    .enter()
-    .append("g")
-      .attr("class", "g")
-      .attr("transform", function(d) { return "translate(" + x0(d.origin_name) + ",0)"; });
 
-graph.selectAll("rect")
-    .data(function(d) { return keys.map(function(key) { return {key: key, value: d[key]}; }); })
-      // console.log(d, 'heyo')
-      // return d.key; })
-    .enter()
-    .append("rect")
-      .attr("width", 20)
-      // .attr("width", x1.rangeBand())
-      .attr("x", function(d) { return x1(d.keys); })
-      .attr("y", function(d) {
-        console.log(d.key);
-        return y0(d.key); })
-      .attr("height", function(d) {
-        // console.log(d.value);
-        return height - y0(d.key); })
-      .style("fill", function(d) { return color(d.keys); });
+  // y.domain([0, d3.max(data, function(d) { return d.percent_over_benchmark; })])
+  // y1.domain([0, d3.max(data, function(d) { return d.med_incom; })]);
 
-// Legend
-var legend = svg.selectAll(".legend")
-    .data(['Bookings','Bookings Revenue'].slice())
-    .enter()
-    .append("g")
-      .attr("class", "legend")
-      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+  // Ticks on x-axis and y-axis
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
 
-legend.append("rect")
-    .attr("x", width - 48)
-    .attr("width", 18)
-    .attr("height", 18)
-    .style("fill", color);
+  svg.append("g")
+      .attr("class", "y0 axis")
+      .call(yAxisLeft)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .style("fill", "#98abc5")
+      .text("Bookings");
 
-legend.append("text")
-    .attr("x", width - 54)
-    .attr("y", 9)
-    .attr("dy", ".35em")
-    .style("text-anchor", "end")
-    .text(function(d) { return d; });
+  svg.select('.y0.axis')
+    .selectAll('.tick')
+      .style("fill","#98abc5");
+
+  svg.append("g")
+      .attr("class", "y1 axis")
+      .attr("transform", "translate(" + width + ",0)")
+      .call(yAxisRight)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", -16)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .style("fill", "#d0743c")
+      .text("Bookings Revenue");
+
+  svg.select('.y1.axis')
+    .selectAll('.tick')
+      .style("fill","#d0743c");
+  // End ticks
+
+  var graph = svg.selectAll(".date")
+      .data(data)
+      .enter()
+      .append("g")
+        .attr("class", "g")
+        .attr("transform", function(d) { return "translate(" + x0(d.origin_name) + ",0)"; });
+
+        graph.selectAll("rect")
+            .data(function(d) {
+              console.log(d.values);
+              return d.values; })
+            .enter()
+            .append("rect")
+              .attr("width", 20)
+              .attr("x", function(d) { return x1(d.name); })
+              .attr("y", function(d) { return y0(d.value); })
+              .attr("height", function(d) { return height - y0(d.value); })
+              .style("fill", function(d) { return color(d.name); });
+
+  // graph.selectAll("rect")
+  //     .data(function(d) { return values.map(function(value) { return {value: value, value: d[value]}; }); })
+  //       // console.log(d, 'heyo')
+  //       // return d.key; })
+  //     .enter()
+  //     .append("rect")
+  //       .attr("width", 20)
+  //       // .attr("width", x1.rangeBand())
+  //       .attr("x", function(d) { return x1(d.keys); })
+  //       .attr("y", function(d) {
+  //         console.log(d.key);
+  //         return y0(d.key); })
+  //       .attr("height", function(d) {
+  //         // console.log(d.value);
+  //         return height - y0(d.key); })
+  //       .style("fill", function(d) { return color(d.keys); });
+
+  // Legend
+  var legend = svg.selectAll(".legend")
+      .data(['Bookings','Bookings Revenue'].slice())
+      .enter()
+      .append("g")
+        .attr("class", "legend")
+        .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+  legend.append("rect")
+      .attr("x", width - 48)
+      .attr("width", 18)
+      .attr("height", 18)
+      .style("fill", color);
+
+  legend.append("text")
+      .attr("x", width - 54)
+      .attr("y", 9)
+      .attr("dy", ".35em")
+      .style("text-anchor", "end")
+      .text(function(d) { return d; });
 
 });
+ // function(error, data) {
+ //  if (error) throw error;
+
+// console.log(data);
+
+// d3.csv("/data/cities.csv", function(d) {
+//   return {
+//     city : d.city,
+//     state : d.state,
+//     population : +d.population,
+//     land_area : +d["land area"]
+//   };
+// }, function(data) {
+//   console.log(data[0]);
+// });
+
+  // var keys = d.columns.slice(1);
+
+
+
+// };
 </script>
 
 </body>
