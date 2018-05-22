@@ -27,5 +27,26 @@ avg_pct_benchmark = mbta_per %>%
 
 avg_pct_benchmark2 = subset(avg_pct_benchmark, dep_time_by15 != "2017-12-28 04:59:00" & dep_time_by15 != "2017-12-28 23:59:00")
 
+write.csv(avg_pct_benchmark2, file = "avg_pct_benchmark.csv")
 
-write.csv(avg_pct_benchmark, file = "avg_pct_benchmark.csv")
+#Groupby origin_name and dep_time bucket and summarize avg. pct of benchmark for each
+
+Orig_pct_bench = mbta_per %>% 
+  group_by_(.dots=c("origin_name","dep_time_by15")) %>% 
+  summarize(avg_pct_benchmark=mean(pct_of_benchmark))
+
+Orig_pct_bench2 = subset(Orig_pct_bench, dep_time_by15 == "2017-12-28 08:29:00")
+
+perf_eight = subset(mbta_per, dep_time_by15 == "2017-12-28 08:29:00")
+
+dist_eight = distinct(perf_eight, origin_name, .keep_all = T)
+
+Orig_pct_bench3 = inner_join(Orig_pct_bench2, dist_eight, by = "origin_name")
+
+stops = read.csv("stops.csv")
+
+Orig_pct_bench3$orig_name_old = stops$parent_station[match(Orig_pct_bench3$origin_id, stops$stop_code)]
+
+Orig_pct_bench3$dest_name_old = stops$parent_station[match(Orig_pct_bench3$dest_id, stops$stop_code)]
+
+Orig_pct_bench3$link = paste(Orig_pct_bench3$orig_name_old, Orig_pct_bench3$dest_name_old, sep = "|")

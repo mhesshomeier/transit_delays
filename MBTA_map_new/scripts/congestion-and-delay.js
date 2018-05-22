@@ -64,6 +64,8 @@ VIZ.requiresData([
     .sortBy(function (d) { return d[0].day; })
     .value();
 
+  console.log(byDay);
+
 
 
 
@@ -403,6 +405,10 @@ VIZ.requiresData([
   drawLineEndDot('place-bomnl', "#2F5DA6");
   drawLineEndDot('place-forhl', "#E87200");
   drawLineEndDot('place-ogmnl', "#E87200");
+  drawLineEndDot('place-clmnl', "#E87200");
+  drawLineEndDot('place-lake', "#E87200");
+  drawLineEndDot('place-hsmnl', "#E87200");
+  drawLineEndDot('place-river', "#E87200");
 
 
 
