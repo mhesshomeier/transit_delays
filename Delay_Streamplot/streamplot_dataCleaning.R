@@ -1,5 +1,10 @@
 ##### MBTA Performance data cleaning #######
 
+library(dplyr)
+
+setwd("/Users/abob/Desktop/github/big-data-spring2018/transit_delays/gtfs_scrape")
+
+mbta_perf = read.csv("mbta_perf_v3.csv")
 #remove data with 0 benchmark time
 new_perf = subset(mbta_perf, benchmark_travel_time_sec > 0)
 
@@ -19,6 +24,8 @@ mbta_per$dep_time_by15 = cut(mbta_per$datetime, breaks="15 min")
 avg_pct_benchmark = mbta_per %>% 
   group_by_(.dots=c("route_id","dep_time_by15")) %>% 
   summarize(avg_pct_benchmark=mean(pct_of_benchmark))
+
+avg_pct_benchmark2 = subset(avg_pct_benchmark, dep_time_by15 != "2017-12-28 04:59:00" & dep_time_by15 != "2017-12-28 23:59:00")
 
 
 write.csv(avg_pct_benchmark, file = "avg_pct_benchmark.csv")
