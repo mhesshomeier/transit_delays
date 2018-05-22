@@ -25,17 +25,17 @@
  *************************************************************/
 
 VIZ.requiresData([
-  // 'json!data/delay.json',
-  'json!data/our_mbta-network.json',
+  'json!data/delay.json',
+  'json!data/our_mbta_network.json',
   'json!data/our_spider.json',
-  // 'json!data/average-actual-delays.json'
+  'json!data/average-actual-delays.json'
 ], true).progress(function (percent) {
   "use strict";
   d3.selectAll(".interaction-all .loading").text('Loading delay data... ' + percent + '%').style('text-align', 'center');
 }).onerror(function () {
   "use strict";
   d3.select(".interaction-all .loading").text('Error loading delay data').style('text-align', 'center');
-}).done(function (network, spider) {
+}).done(function (delay, network, spider, averageActualDelays) {
   "use strict";
   d3.select(".interaction-all .loading").remove();
 
@@ -63,6 +63,8 @@ VIZ.requiresData([
     .toArray()
     .sortBy(function (d) { return d[0].day; })
     .value();
+
+  console.log(byDay);
 
 
 
@@ -403,6 +405,10 @@ VIZ.requiresData([
   drawLineEndDot('place-bomnl', "#2F5DA6");
   drawLineEndDot('place-forhl', "#E87200");
   drawLineEndDot('place-ogmnl', "#E87200");
+  drawLineEndDot('place-clmnl', "#E87200");
+  drawLineEndDot('place-lake', "#E87200");
+  drawLineEndDot('place-hsmnl', "#E87200");
+  drawLineEndDot('place-river', "#E87200");
 
 
 
